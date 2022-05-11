@@ -1,1 +1,2 @@
-# KIIS-Innovation-Entrepreneurship.github.io
+# KIIS Innovation and Entrepreneurship website
+
