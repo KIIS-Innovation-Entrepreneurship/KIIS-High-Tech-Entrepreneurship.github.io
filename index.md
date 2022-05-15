@@ -9,7 +9,7 @@
   - conversion plugs for both types of Argentina's power outlet shapes
 
 ## Before First Class
-  - **All of the things with links need to be done online, so you need to do it before leaving (there might be Wifi on the plane, but it will be expensive**:
+  - **All of the things with links need to be done online, so you need to do it before leaving (there might be Wifi on the plane, but it will be expensive**):
     - Reflect on what it means to be *entrepreneurial*.
     - Watch [Why Your Business Idea MUST Solve a PROBLEM](https://youtu.be/OkPHGwBTg10)
     - Read the Introduction (pp 17-23) in [The Startup Owners Manual: The Step-By-Step Guide for Building a Great Company](https://feedvu.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html)
