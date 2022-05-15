@@ -7,6 +7,7 @@
 ## In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
   - your laptop and charger
   - conversion plugs for both types of Argentina's power outlet shapes
+  - earphones to use with your laptop
 
 ## Before First Class
   - **All of the things with links need to be done online, so you need to do it before leaving (there might be Wifi on the plane, but it will be expensive**):
