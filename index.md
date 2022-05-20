@@ -5,11 +5,16 @@
 
 ---
 ## Day 1: 10-11:00 Themes: Class Overview and Identifying Entrepreneurial Opportunity
-**In class:**
-- Class overview - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175), [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
-- [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
+**Day 1 class:**
+- Class overview 
+  - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175)
+  - [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
+  - [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing)
+  - Sharing our entrepreneurial stories
+  - Discussion of past and next homework
 
-**Homework:**
+**Day 1: Homework:**
+- Complete Day 1 Homework Reflections and Summary Reflection (Skip Day 1 Brainstorming/Freewriting)
 - Read pp 14-49 in *Business Model Generation* (in Moodle). Then Identify and briefly summarize main ideas from the homework
 React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in Scratchpad
 - Use Google to find answers to the following questions, writing your answers in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
@@ -20,6 +25,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
 - Reflect on the Wikipedia readings from the What's App Group chat, and reflect on the following in a several paragraphs
   a. Who in Argentina's history has been entrepenurial? Explain.
   b. How might you view Buenos Aires as entrepenurial? Explain.
+- Complete Day 2 Homework Reflections
 
 ## Before First Class
   - **All of the things with links need to be done online, so you need to do it before leaving (there might be Wifi on the plane, but it will be expensive**):
