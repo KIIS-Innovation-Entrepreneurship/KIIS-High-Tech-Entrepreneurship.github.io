@@ -5,16 +5,16 @@
 
 ---
 ## Day 1: 10:10-11:00 Themes: Class Overview and Identifying Entrepreneurial Opportunity
-- **In class:**
-  - Class overview - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175), [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
-  - [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
-- **Homework:**
-  - Use Google to find answers to the following questions, writing your answers in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
+**In class:**
+- Class overview - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175), [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
+- [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
+**Homework:**
+- Use Google to find answers to the following questions, writing your answers in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
   - a. What does it mean to be *entrepreneurial*?
   - b. Briefly compare and contrast search and execution.
   - c. Briefly compare and contrast a business model and a business plan.
   - d. What is the Business Model Canvas and what are each of the components of the Business Model Canvas?
-  - Reflect on the Wikipedia readings from the What's App Group chat, and reflect on the following in a several paragraphs
+- Reflect on the Wikipedia readings from the What's App Group chat, and reflect on the following in a several paragraphs
   - a. Who in Argentina's history has been entrepenurial? Explain.
   - b. How might you view Buenos Aires as entrepenurial? Explain.
 
