@@ -4,10 +4,11 @@
 #### Summer 2022 Offering
 
 ---
-## Day 1: 10:10-11:00 Themes: Class Overview and Identifying Entrepreneurial Opportunity
+## Day 1: 10-11:00 Themes: Class Overview and Identifying Entrepreneurial Opportunity
 **In class:**
 - Class overview - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175), [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
 - [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
+
 **Homework:**
 - Read pp 14-49 in *Business Model Generation* (in Moodle). Then Identify and briefly summarize main ideas from the homework
 React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in Scratchpad
