@@ -26,8 +26,8 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
 - Complete Day 2 Homework Reflections on the pp 14-49 in *Business Model Generation* reading and the Google questions
 - Read the Wikipedia readings from the WhatsApp Group chat:
 [Beaux-Arts architecture](https://en.m.wikipedia.org/wiki/Beaux-Arts_architecture), [Generation of '80](https://en.m.wikipedia.org/wiki/Generation_of_%2780), [Immigration to Argentina](https://en.wikipedia.org/wiki/Immigration_to_Argentina), and [Great European immigration wave to Argentina](https://en.wikipedia.org/wiki/Great_European_immigration_wave_to_Argentina), and then reflect on the following in a few paragraphs in the Day 2 Homework Reflections:
-  1. Who in Argentina's history has been entrepenurial? Explain.
-  2. How might you view Buenos Aires as entrepenurial? Explain.
+  1. Who in Argentina's history has been entrepreneurial? Explain.
+  2. How might you view Buenos Aires as entrepreneurial? Explain.
 
 ## Before First Class
   - **All of the things with links need to be done online, so you need to do it before leaving (there might be Wifi on the plane, but it will be expensive**):
