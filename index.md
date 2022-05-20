@@ -11,6 +11,7 @@
   - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175)
   - [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
   - [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing)
+  - [KIIS Argentina Schedule](https://www.dropbox.com/s/ua4upavnxm36ivy/KIIS%20Argentina%202022%20-%20Tentative%20Itinerary.docx?dl=0)
   - Sharing our entrepreneurial stories
   - Discussion of past and next homework
 
