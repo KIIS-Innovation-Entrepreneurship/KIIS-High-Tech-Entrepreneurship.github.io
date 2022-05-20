@@ -9,14 +9,16 @@
 - Class overview - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175), [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
 - [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
 **Homework:**
+- Read pp 14-49 in *Business Model Generation* (in Moodle). Then Identify and briefly summarize main ideas from the homework
+React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in Scratchpad
 - Use Google to find answers to the following questions, writing your answers in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
-  - a. What does it mean to be *entrepreneurial*?
-  - b. Briefly compare and contrast search and execution.
-  - c. Briefly compare and contrast a business model and a business plan.
-  - d. What is the Business Model Canvas and what are each of the components of the Business Model Canvas?
+  a. What does it mean to be *entrepreneurial*?
+  b. Briefly compare and contrast search and execution.
+  c. Briefly compare and contrast a business model and a business plan.
+  d. What is the Business Model Canvas and what are each of the components of the Business Model Canvas?
 - Reflect on the Wikipedia readings from the What's App Group chat, and reflect on the following in a several paragraphs
-  - a. Who in Argentina's history has been entrepenurial? Explain.
-  - b. How might you view Buenos Aires as entrepenurial? Explain.
+  a. Who in Argentina's history has been entrepenurial? Explain.
+  b. How might you view Buenos Aires as entrepenurial? Explain.
 
 ## Before First Class
   - **All of the things with links need to be done online, so you need to do it before leaving (there might be Wifi on the plane, but it will be expensive**):
