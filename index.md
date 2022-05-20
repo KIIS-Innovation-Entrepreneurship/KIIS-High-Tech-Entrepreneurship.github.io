@@ -23,7 +23,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
   1. What does it mean to be *entrepreneurial*?
   2. Briefly compare and contrast search and execution.
   3. Briefly compare and contrast a business model and a business plan.
-  4. What is the Business Model Canvas and what are each of the components of the Business Model Canvas?
+  4. What is the Business Model Canvas and what are each of the components of the Business Model Canvas? (Note: Just list the components--you don't have to describe them.)
 - Complete Day 2 Homework Reflections on the pp 14-49 in *Business Model Generation* reading and the Google questions
 - Read the Wikipedia readings from the WhatsApp Group chat:
 [Beaux-Arts architecture](https://en.m.wikipedia.org/wiki/Beaux-Arts_architecture), [Generation of '80](https://en.m.wikipedia.org/wiki/Generation_of_%2780), [Immigration to Argentina](https://en.wikipedia.org/wiki/Immigration_to_Argentina), and [Great European immigration wave to Argentina](https://en.wikipedia.org/wiki/Great_European_immigration_wave_to_Argentina), and then reflect on the following in a few paragraphs in the Day 2 Homework Reflections:
