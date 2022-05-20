@@ -5,7 +5,7 @@
 
 ---
 ## Day 1 Time: 10:00-11:00 
-## Day 1 Themes: Class Overview and Identifying Entrepreneurial Opportunity
+### Day 1 Themes: Class Overview and Identifying Entrepreneurial Opportunity
 **Day 1 class:**
 - Class overview 
   - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175)
