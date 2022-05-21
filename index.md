@@ -21,7 +21,7 @@
   - What bundles of products and services are we offering to each Customer Segment?
   - Which customer needs are we satisfying?					
   - Application to [Biz Latin Hub: Why do Business in Argentina?]{https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub} 
-- Discussion of homework and what brianstorming is.
+- Discussion of homework and what brainstorming is.
 
 **Day 2: Homework:**
 - Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the homework
@@ -34,7 +34,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
   - [Mercado Libre | Envíos Gratis en el Día](https://www.mercadolibre.com.ar/#from=homecom)
   - [Pomelo | Tecnología e infraestructura para lanzar y escalar tu fintech en América Latina](https://pomelo.la/ar/)
   - [Ualá | El Lado Bueno de tu Plata](https://www.uala.com.ar/)
- - Spend a full 20 minutes brainstorming a **list** of the areas of knowlegge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most. You should be able to generate a long list in that amount of time.
+ - Spend a full 20 minutes brainstorming a **list** of the areas of knowledge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most. You should be able to generate a long list in that amount of time.
  - Finally, look through your list and identify the top three areas on your list that you are most excited about possibly focusing on.
 
 ## Day 1 Time: 10:00-11:00 
@@ -67,7 +67,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
   - **All of the things with links need to be done online, so you need to do it before leaving (there might be Wifi on the plane, but it will be expensive**):
     - Reflect on what it means to be *entrepreneurial*.
     - Watch [Why Your Business Idea MUST Solve a PROBLEM](https://youtu.be/OkPHGwBTg10)
-    - Read the Introduction (pp 17-23) in [The Startup Owners Manual: The Step-By-Step Guide for Building a Great Company](https://feedvu.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html)
+    - Read the Introduction (pp 17-23) in [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://feedvu.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html)
     - Read [Chapter 1: The Role and Promise of Entrepreneurship](https://techventures.stanford.edu/chapter-1-the-role-and-promise-of-entrepreneurship/) and watch the first two linked videos. 
     - Come to our first class with a short story about yourself that answers the question, "Tell me about a time when you were entrepreneurial."
 
