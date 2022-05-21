@@ -7,7 +7,7 @@
 ## Day 2 Time: 11:15-1:00 
 ### Day 2 Theme: Building Blocks of Business Models
 **Day 2 class:**
-- Welcome Kristi! (Please share your entrepreneurial story
+- Welcome Kristi! Please share your entrepreneurial story.
 - Homework (wait... what are we going to call it?) discussion
   - Comments on submissions - redos allowed until 8am on Tuesday May 24. (This is the ONLY time redos will be allowed.) 
   - Discussions and sharing of each homework component 
