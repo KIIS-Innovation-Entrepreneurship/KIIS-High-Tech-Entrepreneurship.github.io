@@ -4,6 +4,37 @@
 #### Summer 2022 Offering
 
 ---
+## Day 2 Time: 11:15-1:00 
+### Day 2 Theme: Building Blocks of Business Models
+**Day 2 class:**
+- Welcome Kristi! (Please share your entrepreneurial story
+- Homework (wait... what are we going to call it?) discussion
+  - Comments on submissions - redos allowed until 8am on Tuesday May 24. (This is the ONLY time redos will be allowed.) 
+  - Discussions and sharing of each homework component 
+  - Connections of class ideas to the city
+- Exploring the [Business Model Canvas](https://docs.google.com/spreadsheets/d/1TtkrIn4-PHvUt24_4VRo8_K_21mst0Ky-tNDHTUqn0A/edit?usp=sharing)
+- Watch and discuss [Biz Latin Hub: Why do Business in Argentina?]{https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub}
+  - Prompt 1: in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing): What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?	
+- Discussion of Value Propositions:
+  - Which one of our customer’s problems are we helping to solve?
+  - What bundles of products and services are we offering to each Customer Segment?
+  - Which customer needs are we satisfying?					
+  - Application to [Biz Latin Hub: Why do Business in Argentina?]{https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub} 
+- Discussion of homework and what brianstorming is.
+
+**Day 2: Homework:**
+- Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the homework
+React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Scratchpad.
+- Watch the following videos on Argentine Start-ups and for each identify a) "What is the Problem/Entrepreneurial Opportunity?," and b) "What are the Value Propositions?"
+  - [Agrofy | El Mercado online del Agro]()
+  - [AreaTres | Tu Coworking ideal en Palermo]()
+  - [Bienvenido a Despegar | Welcome to Despegar]()
+  - [Globant | Seek Reinvention]()
+  - [Mercado Libre | Envíos Gratis en el Día]()
+  - [Pomelo | Tecnología e infraestructura para lanzar y escalar tu fintech en América Latina]()
+  - [Ualá | El Lado Bueno de tu Plata]()
+ - Spend a full 20 minutes brainstorming a **list** of the areas of knowlegge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most.
+
 ## Day 1 Time: 10:00-11:00 
 ### Day 1 Themes: Class Overview and Identifying Entrepreneurial Opportunity
 **Day 1 class:**
@@ -18,7 +49,7 @@
 **Day 1: Homework:**
 - Complete Day 1 Homework Reflections and Summary Reflection (Skip Day 1 Brainstorming/Freewriting)
 - Read pp 14-49 in *Business Model Generation* (in Moodle). Then Identify and briefly summarize main ideas from the homework
-React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in Scratchpad
+React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Scratchpad.
 - Use Google to find answers to the following questions, writing your answers in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) 
   1. What does it mean to be *entrepreneurial*?
   2. Briefly compare and contrast search and execution.
