@@ -25,14 +25,14 @@
 **Day 2: Homework:**
 - Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the homework
 React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Scratchpad.
-- Watch the following videos on Argentine Start-ups and for each identify a) "What is the Problem/Entrepreneurial Opportunity?," and b) "What are the Value Propositions?"
-  - [Agrofy | El Mercado online del Agro]()
-  - [AreaTres | Tu Coworking ideal en Palermo]()
-  - [Bienvenido a Despegar | Welcome to Despegar]()
-  - [Globant | Seek Reinvention]()
-  - [Mercado Libre | Envíos Gratis en el Día]()
-  - [Pomelo | Tecnología e infraestructura para lanzar y escalar tu fintech en América Latina]()
-  - [Ualá | El Lado Bueno de tu Plata]()
+- Read about the following Argentine Start-ups and for each identify a) "What is the Problem/Entrepreneurial Opportunity?," and b) "What are the Value Propositions?"
+  - [Agrofy | El Mercado online del Agro](https://www.agrofy.com.ar/)
+  - [AreaTres | Tu Coworking ideal en Palermo](https://www.areatresworkplace.com/home)
+  - [Bienvenido a Despegar | Welcome to Despegar](https://www.us.despegar.com/)
+  - [Globant | Seek Reinvention](https://www.globant.com/)
+  - [Mercado Libre | Envíos Gratis en el Día](https://www.mercadolibre.com.ar/#from=homecom)
+  - [Pomelo | Tecnología e infraestructura para lanzar y escalar tu fintech en América Latina](https://pomelo.la/ar/)
+  - [Ualá | El Lado Bueno de tu Plata](https://www.uala.com.ar/)
  - Spend a full 20 minutes brainstorming a **list** of the areas of knowlegge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most.
 
 ## Day 1 Time: 10:00-11:00 
