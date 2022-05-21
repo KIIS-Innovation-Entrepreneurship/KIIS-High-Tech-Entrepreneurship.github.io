@@ -33,7 +33,8 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
   - [Mercado Libre | Envíos Gratis en el Día](https://www.mercadolibre.com.ar/#from=homecom)
   - [Pomelo | Tecnología e infraestructura para lanzar y escalar tu fintech en América Latina](https://pomelo.la/ar/)
   - [Ualá | El Lado Bueno de tu Plata](https://www.uala.com.ar/)
- - Spend a full 20 minutes brainstorming a **list** of the areas of knowlegge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most.
+ - Spend a full 20 minutes brainstorming a **list** of the areas of knowlegge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most. You should be able to generate a long list in that amount of time.
+ - Finally, look through your list and identify the top three areas on your list that you are most excited about possibly focusing on.
 
 ## Day 1 Time: 10:00-11:00 
 ### Day 1 Themes: Class Overview and Identifying Entrepreneurial Opportunity
