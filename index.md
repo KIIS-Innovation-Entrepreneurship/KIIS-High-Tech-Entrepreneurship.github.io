@@ -14,13 +14,14 @@
   - Connections of class ideas to the city
   - Prompt 1: Identify a problem that you have experienced here and think of ways how technology might possibly help.
 - Exploring the [Business Model Canvas](https://docs.google.com/spreadsheets/d/1TtkrIn4-PHvUt24_4VRo8_K_21mst0Ky-tNDHTUqn0A/edit?usp=sharing)
-- Watch and discuss [Biz Latin Hub: Why do Business in Argentina?]{https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub}
+- Watch and discuss [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub)
   - Prompt 2: in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing): What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?	
 - Discussion of Value Propositions:
   - Which one of our customer’s problems are we helping to solve?
   - What bundles of products and services are we offering to each Customer Segment?
   - Which customer needs are we satisfying?					
-  - Application to [Biz Latin Hub: Why do Business in Argentina?]{https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub} 
+  - Application to [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub) 
+  - Prompt 3: What are the Value Propositions for the Biz Latin Hub?
 - Discussion of homework and what brainstorming is.
 
 **Day 2: Homework:**
