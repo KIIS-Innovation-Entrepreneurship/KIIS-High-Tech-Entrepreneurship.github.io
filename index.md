@@ -15,7 +15,7 @@
   - Prompt 1: Identify a problem that you have experienced here and think of ways how technology might possibly help.
 - Exploring the [Business Model Canvas](https://docs.google.com/spreadsheets/d/1TtkrIn4-PHvUt24_4VRo8_K_21mst0Ky-tNDHTUqn0A/edit?usp=sharing)
 - Watch and discuss [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub)
-  - Prompt 2: in your [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing): What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?	
+  - Prompt 2: in your [Tech Innovation Field Pads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing): What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?	
 - Discussion of Value Propositions:
   - Which one of our customer’s problems are we helping to solve?
   - What bundles of products and services are we offering to each Customer Segment?
@@ -26,7 +26,7 @@
 
 **Day 2: Homework:**
 - Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the homework
-React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Scratchpad.
+React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Field Pad.
 - Read about the following Argentine Start-ups and for each identify a) *What is the Problem/Entrepreneurial Opportunity?*, and b) *What are the Value Propositions?*
   -  [Agrofy: El Mercado online del Agro](https://www.agrofy.com.ar/)
   -  [AreaTres: Tu Coworking ideal en Palermo](https://www.areatresworkplace.com/home)
@@ -44,7 +44,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
 - Class overview 
   - [Moodle site](https://moodle.berea.edu/course/view.php?id=18175)
   - [Course Syllabus](https://docs.google.com/document/d/13GtI-JP85EqEn9qnE0si6IeUfmiOpkonxbtEXe6l2P8/edit?usp=sharing)
-  - [Tech Innovation Scratchpads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing)
+  - [Tech Innovation Field Pads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing)
   - [KIIS Argentina Schedule](https://www.dropbox.com/s/ua4upavnxm36ivy/KIIS%20Argentina%202022%20-%20Tentative%20Itinerary.docx?dl=0)
   - Sharing our entrepreneurial stories
   - Discussion of past and next homework
