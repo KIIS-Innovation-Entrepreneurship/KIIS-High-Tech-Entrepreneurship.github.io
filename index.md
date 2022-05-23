@@ -30,11 +30,11 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
 - Read about the following Argentine Start-ups and for each identify a) *What is the Problem/Entrepreneurial Opportunity?*, and b) *What are the Value Propositions?*
   -  [Agrofy: El Mercado online del Agro](https://www.agrofy.com.ar/)
   -  [AreaTres: Tu Coworking ideal en Palermo](https://www.areatresworkplace.com/home)
-  -  [Bienvenido a Despegar: Welcome to Despegar](https://www.us.despegar.com/)
+  -  [Bienvenido a Despegar - Welcome to Despegar](https://www.us.despegar.com/)
   -  [Globant: Seek Reinvention](https://www.globant.com/)
-  -  [Mercado Libre - Envíos Gratis en el Día](https://www.mercadolibre.com.ar/#from=homecom)
-  -  [Pomelo - Tecnología e infraestructura para lanzar y escalar tu fintech en América Latina](https://pomelo.la/ar/)
-  -  [Ualá - El Lado Bueno de tu Plata](https://www.uala.com.ar/)
+  -  [Mercado Libre: Envíos Gratis en el Día](https://www.mercadolibre.com.ar/#from=homecom)
+  -  [Pomelo: Tecnología e infraestructura para lanzar y escalar tu fintech en América Latina](https://pomelo.la/ar/)
+  -  [Ualá: El Lado Bueno de tu Plata](https://www.uala.com.ar/)
 - Spend a full 20 minutes brainstorming a **list** of the areas of knowledge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most. You should be able to generate a long list in that amount of time.
  - Finally, look through your list and identify the top three areas on your list that you are most excited about possibly focusing on.
 
