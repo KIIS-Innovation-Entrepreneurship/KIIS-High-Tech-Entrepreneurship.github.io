@@ -26,11 +26,17 @@
 **Day 3: Field Work:**
 - Read chapters 1-3 pp 24-54 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24), and pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Identify the best of your start-up ideas (it must be a start-up that will leverage information technology in some significant way.) 
-- Complete a first iteration of your copy of the [Business Model Canvas](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) for that best idea for your start-up tech business. **Note that you will have 10 minutes to present this to your potential investors on Thursday!**
+- Complete a first iteration of your copy of the [Business Model Canvas](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) for that best idea for your start-up tech business. **Note that you will present this to your potential investors on Thursday!**
 - Then write up a one page report in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). This is intended to help you to be able to distill your ideas into short sound-bytes.
   - Give your start-up a (hopefully catchy) title
   - Research the competition and discuss how your idea differs from the competition
   - Use each section of the first iteration of the Business Model Canvas to summarize why you are excited about this idea and to hypothesize why it will be a success.
+- Prepare a **5 minute pitch talk** for potential invests "pitching" your tech start-up idea. You must use Google slides, which you should place in [Day 4 Pitch Slides](https://drive.google.com/drive/folders/176jv5iHeXT7lqDU6DUYdGaWp9ul5Hihp?usp=sharing) by 8 am on Thursday.
+  - Title slide should include who, what, when, where, and why. 
+  - You should have two or more additional slides, but be strategic! 5 minutes is very short, so be very consise! 
+  - Images are always good to have, but be sure to credit them. 
+  - The final slide should invite questions.
+  - There will be an additional 5 minutes for questions.
 
 ## Day 2 Time: 11:15-1:00 - Meeting on Third Floor
 ### Day 2 Theme: Building Blocks of Business Models
