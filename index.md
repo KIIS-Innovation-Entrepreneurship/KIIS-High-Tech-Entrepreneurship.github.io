@@ -22,6 +22,7 @@
   - Soft-pitch ideas - why? (self and others)
   - Goal: By the end, you should be focused on one single idea for your start-up tech business
 - Debrief
+
 **Day 3: Field Work:**
 - Read chapters 1-3 pp 24-54 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24), and pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Identify the best of your start-up ideas (it must be a start-up that will leverage information technology in some significant way.) 
