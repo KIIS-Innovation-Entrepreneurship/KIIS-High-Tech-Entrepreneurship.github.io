@@ -4,7 +4,34 @@
 #### Summer 2022 Offering
 
 ---
-## Day 2 Time: 11:15-1:00 
+## Day 3 Time: 11:15-1:00 - Meeting on First Floor today
+### Day 3 Theme: Identifying, Refining, and Exploring Start-up Ideas
+**Day 3 class:**
+- Checking in on homework
+- Discussion on successful Argentine Start-ups
+  - problem and value propositions
+  - surprises?
+- Using the Business Model Canvas
+  - **Prompt 1: Consider each part of the business canvas for the Verifly App that you used to enter Argentina. Write your answers to the components in your Field Pad** (not on your Business Model Canvas, which is for your start-up idea.)
+- Read and discuss [Fancy Fundraisers: Tips for a Successful Cocktail Party to Raise Money for a Good Cause | The Catered Affair](https://www.thecateredaffair.com/the-dishes/fancy-fundraisers-tips-for-a-successful-cocktail-party-to-raise-money-for-a-good-cause/)
+- Review your best ideas
+- Discussion of cocktail party:
+  - You are going to a cocktail party where there will be potential investors who you have not met.
+  - Stay in character! - You have some business ideas and you are at a cocktail party full of potential investors - why?
+  - Make friends - why?
+  - Soft-pitch ideas - why? (self and others)
+  - Goal: By the end, you should be focused on one single idea for your start-up tech business
+- Debrief
+**Day 3: Field Work:**
+- Read chapters 1-3 pp 24-54 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24), and pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Identify the best of your start-up ideas (it must be a start-up that will leverage information technology in some significant way.) 
+- Complete a first iteration of your copy of the [Business Model Canvas](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) for that best idea for your start-up tech business. **Note that you will have 10 minutes to present this to your potential investors on Thursday!**
+- Then write up a one page report in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). This is intended to help you to be able to distill your ideas into short sound-bytes.
+  - Give your start-up a (hopefully catchy) title
+  - Research the competition and discuss how your idea differs from the competition
+  - Use each section of the first iteration of the Business Model Canvas to summarize why you are excited about this idea and to hypothesize why it will be a success.
+
+## Day 2 Time: 11:15-1:00 - Meeting on Third Floor
 ### Day 2 Theme: Building Blocks of Business Models
 **Day 2 class:**
 - Welcome Kristi! Please share your entrepreneurial story.
@@ -12,19 +39,19 @@
   - Comments on submissions - redos allowed until 8am on Tuesday May 24. (This is the ONLY time redos will be allowed.) 
   - Discussions and sharing of each homework component 
   - Connections of class ideas to the city
-  - Prompt 1: Identify a problem that you have experienced here and think of ways how technology might possibly help.
+  - **Prompt 1: Identify a problem that you have experienced here and think of ways how technology might possibly help.**
 - Exploring the [Business Model Canvas](https://docs.google.com/spreadsheets/d/1TtkrIn4-PHvUt24_4VRo8_K_21mst0Ky-tNDHTUqn0A/edit?usp=sharing)
 - Watch and discuss [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub)
-  - Prompt 2: in your [Tech Innovation Field Pads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing): What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?	
+  - **Prompt 2: in your [Tech Innovation Field Pads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing): What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?**	
 - Discussion of Value Propositions:
   - Which one of our customer’s problems are we helping to solve?
   - What bundles of products and services are we offering to each Customer Segment?
   - Which customer needs are we satisfying?					
   - Application to [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub) 
-  - Prompt 3: What are the Value Propositions for the Biz Latin Hub?
+  - **Prompt 3: What are the Value Propositions for the Biz Latin Hub?**
 - Discussion of homework and what brainstorming is.
 
-**Day 2: Homework:**
+**Day 2: Field Work:**
 - Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the video.
 React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Field Pad.
 - Read about the following Argentine Start-ups and for each identify a) *What is the Problem/Entrepreneurial Opportunity?*, and b) *What are the Value Propositions?* Note: If these are in Spanish and you don't speak Spanish, use a translation tool to help!
@@ -38,7 +65,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
 - Spend a full 20 minutes brainstorming a **list** of the areas of knowledge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most. You should be able to generate a long list in that amount of time.
  - Finally, look through your list and identify the top three areas on your list that you are most excited about possibly focusing on.
 
-## Day 1 Time: 10:00-11:00 
+## Day 1 Time: 10:00-11:00 - Meeting on Third Floor
 ### Day 1 Themes: Class Overview and Identifying Entrepreneurial Opportunity
 **Day 1 class:**
 - Class overview 
@@ -49,7 +76,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
   - Sharing our entrepreneurial stories
   - Discussion of past and next homework
 
-**Day 1: Homework:**
+**Day 1: Field Work:**
 - Complete Day 1 Homework Reflections and Summary Reflection (Skip Day 1 Brainstorming/Freewriting)
 - Read pp 14-49 in *Business Model Generation* (in Moodle). Then Identify and briefly summarize main ideas from the homework
 React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Scratchpad.
