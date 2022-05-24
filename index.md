@@ -22,6 +22,7 @@
   - Soft-pitch ideas - why? (self and others)
   - Goal: By the end, you should be focused on one single idea for your start-up tech business
 - Debrief
+- Discuss what a [pitch](https://blog.genial.ly/en/business-pitch/) is in preparation for the homework.
 
 **Day 3: Field Work:**
 - Read chapters 1-3 pp 24-54 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24), and pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
@@ -35,8 +36,7 @@
   - Title slide should include who, what, when, where, and why. 
   - You should have two or more additional slides, but be strategic! 5 minutes is very short, so be very consise! 
   - Images are always good to have, but be sure to credit them. 
-  - The final slide should invite questions.
-  - There will be an additional 5 minutes for questions.
+  - The final slide should invite questions because there will be an additional 5 minutes for questions.
 
 ## Day 2 Time: 11:15-1:00 - Meeting on Third Floor
 ### Day 2 Theme: Building Blocks of Business Models
