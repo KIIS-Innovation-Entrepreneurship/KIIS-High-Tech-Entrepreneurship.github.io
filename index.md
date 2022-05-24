@@ -8,7 +8,7 @@
 ### Day 2 Theme: Building Blocks of Business Models
 **Day 2 class:**
 - Welcome Kristi! Please share your entrepreneurial story.
-- Homework (wait... what are we going to call it?) discussion
+- Fieldwork discussions
   - Comments on submissions - redos allowed until 8am on Tuesday May 24. (This is the ONLY time redos will be allowed.) 
   - Discussions and sharing of each homework component 
   - Connections of class ideas to the city
@@ -27,7 +27,7 @@
 **Day 2: Homework:**
 - Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the homework
 React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Field Pad.
-- Read about the following Argentine Start-ups and for each identify a) *What is the Problem/Entrepreneurial Opportunity?*, and b) *What are the Value Propositions?*
+- Read about the following Argentine Start-ups and for each identify a) *What is the Problem/Entrepreneurial Opportunity?*, and b) *What are the Value Propositions?* Note: If these are in Spanish and you don't speak Spanish, use a translation tool to help!
   -  [Agrofy: El Mercado online del Agro](https://www.agrofy.com.ar/)
   -  [AreaTres: Tu Coworking ideal en Palermo](https://www.areatresworkplace.com/home)
   -  [Bienvenido a Despegar - Welcome to Despegar](https://www.us.despegar.com/)
