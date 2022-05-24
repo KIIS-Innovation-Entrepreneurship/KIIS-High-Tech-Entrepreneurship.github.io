@@ -13,7 +13,7 @@
   - surprises?
 - Using the Business Model Canvas
   - **Prompt 1: Consider each part of the business canvas for the Verifly App that you used to enter Argentina. Write your answers to the components in your Field Pad** (not on your Business Model Canvas, which is for your start-up idea.)
-- Read and discuss [Fancy Fundraisers: Tips for a Successful Cocktail Party to Raise Money for a Good Cause | The Catered Affair](https://www.thecateredaffair.com/the-dishes/fancy-fundraisers-tips-for-a-successful-cocktail-party-to-raise-money-for-a-good-cause/)
+- Read and discuss [Fancy Fundraisers: Tips for a Successful Cocktail Party to Raise Money for a Good Cause - The Catered Affair](https://www.thecateredaffair.com/the-dishes/fancy-fundraisers-tips-for-a-successful-cocktail-party-to-raise-money-for-a-good-cause/)
 - Review your best ideas
 - Discussion of cocktail party:
   - You are going to a cocktail party where there will be potential investors who you have not met.
