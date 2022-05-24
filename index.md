@@ -25,7 +25,7 @@
 - Discussion of homework and what brainstorming is.
 
 **Day 2: Homework:**
-- Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the homework
+- Watch [Video: The Entrepreneurs Behind a Technology Boom in Argentina](https://www.youtube.com/watch?v=J67ChvM5fNk&ab_channel=CGTNAmerica) Then identify and briefly summarize main ideas from the video.
 React and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Field Pad.
 - Read about the following Argentine Start-ups and for each identify a) *What is the Problem/Entrepreneurial Opportunity?*, and b) *What are the Value Propositions?* Note: If these are in Spanish and you don't speak Spanish, use a translation tool to help!
   -  [Agrofy: El Mercado online del Agro](https://www.agrofy.com.ar/)
