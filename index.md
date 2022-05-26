@@ -15,7 +15,7 @@
 - Debriefing
 
 **Day 4: Field Work:**
-- Read [Cheek to cheek: keeping the tango alive during Covid in Buenos Aires | photo essay](https://www.theguardian.com/artanddesign/2021/jul/04/tango-buenos-aires-argentina-covid-photo-essay) and discuss Argentine culture workers as entrepreneurs in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). 
+- Read [Cheek to cheek: keeping the tango alive during Covid in Buenos Aires - photo essay](https://www.theguardian.com/artanddesign/2021/jul/04/tango-buenos-aires-argentina-covid-photo-essay) and discuss Argentine culture workers as entrepreneurs in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). 
 - Read chapter 4 pp 54-65 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=54). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 
 ## Day 3 Time: 11:15-1:00 - Meeting on First Floor today
