@@ -4,6 +4,19 @@
 #### Summer 2022 Offering
 
 ---
+
+## Day 4 Time: 10:40-12:00 - Meeting on Third Floor
+### Day 4 Theme: Pitching and Investing
+**Day 4 class:**
+- Discuss chapters 1-3 pp 24-53 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24)
+- Discuss pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf)
+- Presentations
+- Investing: Please complete the [Tech Innovation Investment Form](https://forms.gle/tzYskBC6go9WrR9G9)
+- Debriefing
+**Day 4: Field Work:**
+- Read [Cheek to cheek: keeping the tango alive during Covid in Buenos Aires | photo essay](https://www.theguardian.com/artanddesign/2021/jul/04/tango-buenos-aires-argentina-covid-photo-essay) and discuss Argentine culture workers as entrepreneurs in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). 
+- Read chapter 4 pp 54-65 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=54). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+
 ## Day 3 Time: 11:15-1:00 - Meeting on First Floor today
 ### Day 3 Theme: Identifying, Refining, and Exploring Start-up Ideas
 **Day 3 class:**
@@ -14,6 +27,7 @@
 - Using the Business Model Canvas
   - **Prompt 1: Consider each part of the business canvas for the Verifly App that you used to enter Argentina. Write your answers to the components in your Field Pad** (not on your Business Model Canvas, which is for your start-up idea.)
 - Read and discuss [Fancy Fundraisers: Tips for a Successful Cocktail Party to Raise Money for a Good Cause - The Catered Affair](https://www.thecateredaffair.com/the-dishes/fancy-fundraisers-tips-for-a-successful-cocktail-party-to-raise-money-for-a-good-cause/)
+- Discuss what a [pitch](https://blog.genial.ly/en/business-pitch/) is.
 - Review your best ideas
 - Discussion of cocktail party:
   - You are going to a cocktail party where there will be potential investors who you have not met.
@@ -22,10 +36,9 @@
   - Soft-pitch ideas - why? (self and others)
   - Goal: By the end, you should be focused on one single idea for your start-up tech business
 - Debrief
-- Discuss what a [pitch](https://blog.genial.ly/en/business-pitch/) is in preparation for the homework.
 
 **Day 3: Field Work:**
-- Read chapters 1-3 pp 24-54 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24), and pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Read chapters 1-3 pp 24-53 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24), and pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Identify the best of your start-up ideas (it must be a start-up that will leverage information technology in some significant way.) 
 - Complete a first iteration of your copy of the [Business Model Canvas](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) for that best idea for your start-up tech business. **Note that you will present this to your potential investors on Thursday!**
 - Then write up a one page report in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). This is intended to help you to be able to distill your ideas into short sound-bytes.
