@@ -8,6 +8,7 @@
 ### Day 5 Theme: Tech Shark Tank Round 2: Elimination Investing
 **Day 5 class:**
 - Debriefing on Day 4
+- Discussion of readings
 - Round 1 of our Tech Shark Tank left us with three investment opportunities: Fithub, Tour Buenos Aires, and Shindig. Today, we will have the opportunity to invest a bit more in these three opportunities. At least one (and possibly two) of these will be eliminated.
 - 15 minutes of meet and greet before our second investment round - CEOs hone your pitches!
 - When investing begins, you may invest here [Tech Innovation R2 Investment Form](https://forms.gle/g2vCfGW896thkP5J9).
