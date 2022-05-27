@@ -10,6 +10,7 @@
 - Debriefing on Day 4
 - Discussion of readings
 - Round 1 of our Tech Shark Tank left us with three investment opportunities: Fithub, Tour Buenos Aires, and Shindig. Today, we will have the opportunity to invest a bit more in these three opportunities. At least one (and possibly two) of these will be eliminated.
+- See [Day 4 Pitch Slides](https://drive.google.com/drive/folders/176jv5iHeXT7lqDU6DUYdGaWp9ul5Hihp?usp=sharing)
 - 15 minutes of meet and greet before our second investment round - CEOs hone your pitches!
 - When investing begins, you may invest here [Tech Innovation R2 Investment Form](https://forms.gle/g2vCfGW896thkP5J9).
 - Read pdf page 160 of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf) and discuss.
