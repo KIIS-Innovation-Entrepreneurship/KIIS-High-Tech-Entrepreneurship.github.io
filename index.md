@@ -4,6 +4,19 @@
 #### Summer 2022 Offering
 
 ---
+## Day 5 Time: 10:00-10:50 - Meeting on Third Floor
+### Day 5 Theme: Tech Shark Tank Round 2: Elimination Investing
+**Day 5 class:**
+- Debriefing on Day 4
+- Round 1 of our Tech Shark Tank left us with three investment opportunities: Fithub, Tour Buenos Aires, and Shindig. Today, we will have the opportunity to invest a bit more in these three opportunities. At least one (and possibly two) of these will be eliminated.
+- 15 minutes of meet and greet before our second investment round - CEOs hone your pitches!
+- When investing begins, you may invest here [Tech Innovation R2 Investment Form](https://forms.gle/g2vCfGW896thkP5J9).
+
+**Day 5: Field Work:**
+- Read 118-119 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf), and dig more into any of these that seem relevant.
+- Read 128-149 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf)
+- CEOs and investors create a second iteration of the Business Model Canvas explain your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). For these, use your own perspective and words.
+- Propose experiments and interview questions to help you to test your hypotheses (customer segments, value propostion, channel and revenue model) - explain each of these in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). Note that you should work together on this, but everyone will put into their personal [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). 
 
 ## Day 4 Time: 10:40-12:00 - Meeting on Third Floor
 ### Day 4 Theme: Pitching and Investing
@@ -11,8 +24,7 @@
 - Discuss chapters 1-3 pp 24-53 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24)
 - Discuss pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf)
 - Presentations
-- Investing: Please complete the [Tech Innovation Investment Form](https://forms.gle/tzYskBC6go9WrR9G9)
-- Debriefing
+- Investing: Please complete the [Tech Innovation R1 Investment Form](https://forms.gle/tzYskBC6go9WrR9G9)
 
 **Day 4: Field Work:**
 - Read [Cheek to cheek: keeping the tango alive during Covid in Buenos Aires - photo essay](https://www.theguardian.com/artanddesign/2021/jul/04/tango-buenos-aires-argentina-covid-photo-essay) and discuss Argentine culture workers as entrepreneurs in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). 
