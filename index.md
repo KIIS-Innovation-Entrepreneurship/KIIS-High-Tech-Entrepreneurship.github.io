@@ -16,7 +16,7 @@
 - Read pdf page 160 of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf) and discuss.
 
 **Day 5: Field Work:**
-- React and reflect on the main ideas of the **Hotel Owner's talk on Entreprenurship** (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad]
+- React and reflect on the main ideas of the **Hotel Owner's talk on Entreprenurship** (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Teams are chosen by the investors:
   - **Shindig**: Joseph (CEO), Alejandro, Ethan
   - **Tour Buenos Aires**: Darian (CEO), Kristi 
