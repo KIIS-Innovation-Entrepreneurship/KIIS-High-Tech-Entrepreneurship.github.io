@@ -8,7 +8,7 @@
 ## Day 6 Time: 10:00-10:50 - Meeting on Third Floor
 ### Day 6 Theme: The Story of [Runestone Academy](https://runestone.academy/) by Brad Miller, Founder
 **Day 6 class:**
-- Welcoming Brad Miller via Zoom
+- Welcoming Brad Miller, founder of [Runestone Academy](https://runestone.academy/) via Zoom
 - Note that because of the timing of Dr. Miller's visit, we may have to postpone discussion of your homework until next time.
 
 **Day 6: Field Work:**
