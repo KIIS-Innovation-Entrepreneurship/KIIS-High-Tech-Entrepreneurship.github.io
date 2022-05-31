@@ -15,6 +15,7 @@
 - React and reflect on the main ideas of the **Brad Miller's Discussion about Runestone** (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Now that you have experienced more of Argentina. Make a list of entrepreneurs you have seen or encountered here. Be sure to reflect on everyday interactions as well as on our excursions. Briefly explain how each is an entrepreneur.
 - Watch the videos embedded in [Customer Discovery: Understanding What the customer Is Telling You](https://venturewell.org/i-corps/llpvideos/customer-discovery/understanding-what-the-customer-is-telling-you/). React and reflect on the main ideas from these videos, and use them to enhance/modify the questions you plan to ask your potential customers. Add to today's [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Read my comments on your Business Model Canvas iteration v2 and use my comments to inform your customer quetions.
 - Identify at least 6 potential customers to interview and try to set up at least 3 interviews for later this week. The interviews can be in-person, via phone, via Zoom, etc. Note that there should ideally be at least two members of your team present at the interview so someone can take notes and make sure your hypotheses are tested.
 
 ## Day 5 Time: 10:00-10:50 - Meeting on Third Floor
