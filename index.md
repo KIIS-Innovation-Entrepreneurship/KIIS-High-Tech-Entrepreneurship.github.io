@@ -4,6 +4,19 @@
 #### Summer 2022 Offering
 
 ---
+
+## Day 6 Time: 10:00-10:50 - Meeting on Third Floor
+### Day 6 Theme: The Story of [Runestone Academy](https://runestone.academy/) by Brad Miller, Founder
+**Day 6 class:**
+- Welcoming Brad Miller via Zoom
+- Note that because of the timing of Dr. Miller's visit, we may have to postpone discussion of your homework until next time.
+
+**Day 6: Field Work:**
+- React and reflect on the main ideas of the **Brad Miller's Discussion about Runestone** (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Now that you have experienced more of Argentina. Make a list of entrepreneurs you have seen or encountered here. Be sure to reflect on everyday interactions as well as on our excursions. Briefly explain how each is an entrepreneur.
+- Watch the videos embedded in [Customer Discovery: Understanding What the customer Is Telling You](https://venturewell.org/i-corps/llpvideos/customer-discovery/understanding-what-the-customer-is-telling-you/). React and reflect on the main ideas from these videos, and use them to enhance/modify the questions you plan to ask your potential customers. Add to today's [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Identify at least 6 potential customers to interview and try to set up at least 3 interviews for later this week. The interviews can be in-person, via phone, via Zoom, etc. Note that there should ideally be at least two members of your team present at the interview so someone can take notes and make sure your hypotheses are tested.
+
 ## Day 5 Time: 10:00-10:50 - Meeting on Third Floor
 ### Day 5 Theme: Tech Shark Tank Round 2: Elimination Investing
 **Day 5 class:**
@@ -24,7 +37,7 @@
 - Read 128-149 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf) and Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - CEOs and investors create a second iteration of the Business Model Canvas explain your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v1 to create v2 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
   - Note that the [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing) folders are there for your collaborative use. Please feel free to add anything else that is useful to your team. 
-- Begin to consider experiments and interview questions to help you to test your hypotheses (customer segments, value propostion, channel and revenue model) - explain each of these in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). Note that you should work together on this, but everyone will put into their personal [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). We will have time to discuss these in class next time.
+- Begin to consider experiments and interview questions to help you to test your hypotheses (customer segments, value proposition, channel and revenue model) - explain each of these in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). Note that you should work together on this, but everyone will put into their personal [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). We will have time to discuss these in class next time.
 
 ## Day 4 Time: 10:40-12:00 - Meeting on Third Floor
 ### Day 4 Theme: Pitching and Investing
