@@ -5,7 +5,7 @@
 
 ---
 
-## Day 7 Time: 11:15-10:50 - Meeting on Third Floor
+## Day 7 Time: 11:15-1:00 - Meeting on Third Floor
 ### Day 7 Theme: 
 **Day 7 class:**
 - Discussion of readings and reflections
