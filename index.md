@@ -96,9 +96,9 @@
   - Give your start-up a (hopefully catchy) title
   - Research the competition and discuss how your idea differs from the competition
   - Use each section of the first iteration of the Business Model Canvas to summarize why you are excited about this idea and to hypothesize why it will be a success.
-- Prepare a **5 minute pitch talk** for potential invests "pitching" your tech start-up idea. You must use Google slides, which you should place in [Day 4 Pitch Slides](https://drive.google.com/drive/folders/176jv5iHeXT7lqDU6DUYdGaWp9ul5Hihp?usp=sharing) by 8 am on Thursday.
+- Prepare a **5 minute pitch talk** for potential investors "pitching" your tech start-up idea. You must use Google slides, which you should place in [Day 4 Pitch Slides](https://drive.google.com/drive/folders/176jv5iHeXT7lqDU6DUYdGaWp9ul5Hihp?usp=sharing) by 8 am on Thursday.
   - Title slide should include who, what, when, where, and why. 
-  - You should have two or more additional slides, but be strategic! 5 minutes is very short, so be very consise! 
+  - You should have two or more additional slides, but be strategic! 5 minutes is very short, so be very concise! 
   - Images are always good to have, but be sure to credit them. 
   - The final slide should invite questions because there will be an additional 5 minutes for questions.
 
