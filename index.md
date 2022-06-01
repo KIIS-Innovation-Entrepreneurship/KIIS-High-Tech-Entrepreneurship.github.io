@@ -5,7 +5,7 @@
 
 ---
 
-## Day 7 Time: 11:15-1:00 - Meeting on Third Floor
+## Day 7: June 1, 11:15-1:00 - Meeting on Third Floor
 ### Day 7 Theme: Reflection and testing hypotheses
 **Day 7 class:**
 - Discussion of readings and reflections
@@ -21,7 +21,7 @@
 - Conduct at least two more practice interviews using copies of your Interview Sheet located in your [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing) folder. 
 - Explain what you have learned from your practice interviews in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 
-## Day 6 Time: 10:00-10:50 - Meeting on Third Floor
+## Day 6: May 31, 10:00-10:50 - Meeting on Third Floor
 ### Day 6 Theme: The Story of [Runestone Academy](https://runestone.academy/) by Brad Miller, Founder
 **Day 6 class:**
 - Welcoming Brad Miller, founder of [Runestone Academy](https://runestone.academy/) via Zoom
@@ -34,7 +34,7 @@
 - Read my comments on your Business Model Canvas iteration v2 and use my comments to inform your customer quetions.
 - Identify at least 6 potential customers to interview and try to set up at least 3 interviews for later this week. The interviews can be in-person, via Zoom, etc. Note that there should ideally be at least two members of your team present at the interview so someone can take notes and make sure your hypotheses are tested.
 
-## Day 5 Time: 10:00-10:50 - Meeting on Third Floor
+## Day 5: May 27, 10:00-10:50 - Meeting on Third Floor
 ### Day 5 Theme: Tech Shark Tank Round 2: Elimination Investing
 **Day 5 class:**
 - Debriefing on Day 4
@@ -56,7 +56,7 @@
   - Note that the [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing) folders are there for your collaborative use. Please feel free to add anything else that is useful to your team. 
 - Begin to consider experiments and interview questions to help you to test your hypotheses (customer segments, value proposition, channel and revenue model) - explain each of these in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). Note that you should work together on this, but everyone will put into their personal [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). We will have time to discuss these in class next time.
 
-## Day 4 Time: 10:40-12:00 - Meeting on Third Floor
+## Day 4: May 26, 10:40-12:00 - Meeting on Third Floor
 ### Day 4 Theme: Pitching and Investing
 **Day 4 class:**
 - Discuss chapters 1-3 pp 24-53 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=24)
@@ -68,7 +68,7 @@
 - Read [Cheek to cheek: keeping the tango alive during Covid in Buenos Aires - photo essay](https://www.theguardian.com/artanddesign/2021/jul/04/tango-buenos-aires-argentina-covid-photo-essay) and discuss Argentine culture workers as entrepreneurs in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). 
 - Read chapter 4 pp 54-65 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=54). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 
-## Day 3 Time: 11:15-1:00 - Meeting on First Floor today
+## Day 3: May 24, 11:15-1:00 - Meeting on First Floor today
 ### Day 3 Theme: Identifying, Refining, and Exploring Start-up Ideas
 **Day 3 class:**
 - Checking in on homework
@@ -102,7 +102,7 @@
   - Images are always good to have, but be sure to credit them. 
   - The final slide should invite questions because there will be an additional 5 minutes for questions.
 
-## Day 2 Time: 11:15-1:00 - Meeting on Third Floor
+## Day 2: May 21, 11:15-1:00 - Meeting on Third Floor
 ### Day 2 Theme: Building Blocks of Business Models
 **Day 2 class:**
 - Welcome Kristi! Please share your entrepreneurial story.
@@ -136,7 +136,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
 - Spend a full 20 minutes brainstorming a **list** of the areas of knowledge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most. You should be able to generate a long list in that amount of time.
  - Finally, look through your list and identify the top three areas on your list that you are most excited about possibly focusing on.
 
-## Day 1 Time: 10:00-11:00 - Meeting on Third Floor
+## Day 1: May 20, 10:00-11:00 - Meeting on Third Floor
 ### Day 1 Themes: Class Overview and Identifying Entrepreneurial Opportunity
 **Day 1 class:**
 - Class overview 
