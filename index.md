@@ -6,16 +6,18 @@
 ---
 
 ## Day 7 Time: 11:15-1:00 - Meeting on Third Floor
-### Day 7 Theme: 
+### Day 7 Theme: Reflection and testing hypotheses
 **Day 7 class:**
 - Discussion of readings and reflections
 - Discussion of visit by Brad Miller, Founder of Runestone
 - Video by Steve Blank, Author of The Start-up Owner's Manual [Pre-Planning Contacts](https://vimeo.com/groups/204136/videos/87303446)
 - Conduct practice interviews using a copy of [Interview Sheet](https://docs.google.com/document/d/1ByYs4ZFHe0QzE2E8FScxrSzr9cWZw5asQwm83ANZMg8/edit?usp=sharing)
+- Refine your interview questions to test your hypotheses!
 
 **Day 7: Field Work:**
 - Read [Minimum Viable Product (MVP) and Design - Balancing Risk to Gain Reward](https://www.interaction-design.org/literature/article/minimum-viable-product-mvp-and-design-balancing-risk-to-gain-reward) and reflect (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Read chapter 5 pp 65-72 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=65) and both summarize the main ideas and reflect (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Refine your interview questions to test your hypotheses!
 - Conduct at least two more practice interviews using copies of your Interview Sheet located in your [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing) folder. 
 - Explain what you have learned from your practice interviews in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 
