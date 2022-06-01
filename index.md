@@ -5,6 +5,20 @@
 
 ---
 
+## Day 7 Time: 11:15-10:50 - Meeting on Third Floor
+### Day 7 Theme: 
+**Day 7 class:**
+- Discussion of readings and reflections
+- Discussion of visit by Brad Miller, Founder of Runestone
+- Video by Steve Blank, Author of The Start-up Owner's Manual [Pre-Planning Contacts](https://vimeo.com/groups/204136/videos/87303446)
+- Conduct practice interviews using a copy of [Interview Sheet](https://docs.google.com/document/d/1ByYs4ZFHe0QzE2E8FScxrSzr9cWZw5asQwm83ANZMg8/edit?usp=sharing)
+
+**Day 7: Field Work:**
+- Read [Minimum Viable Product (MVP) and Design - Balancing Risk to Gain Reward](https://www.interaction-design.org/literature/article/minimum-viable-product-mvp-and-design-balancing-risk-to-gain-reward) and reflect (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Read chapter 5 pp 65-72 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=65) and both summarize the main ideas and reflect (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Conduct at least two more practice interviews using copies of your Interview Sheet located in your [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing) folder. 
+- Explain what you have learned from your practice interviews in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+
 ## Day 6 Time: 10:00-10:50 - Meeting on Third Floor
 ### Day 6 Theme: The Story of [Runestone Academy](https://runestone.academy/) by Brad Miller, Founder
 **Day 6 class:**
@@ -16,7 +30,7 @@
 - Now that you have experienced more of Argentina. Make a list of entrepreneurs you have seen or encountered here. Be sure to reflect on everyday interactions as well as on our excursions. Briefly explain how each is an entrepreneur.
 - Watch the videos embedded in [Customer Discovery: Understanding What the customer Is Telling You](https://venturewell.org/i-corps/llpvideos/customer-discovery/understanding-what-the-customer-is-telling-you/). React and reflect on the main ideas from these videos, and use them to enhance/modify the questions you plan to ask your potential customers. Add to today's [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Read my comments on your Business Model Canvas iteration v2 and use my comments to inform your customer quetions.
-- Identify at least 6 potential customers to interview and try to set up at least 3 interviews for later this week. The interviews can be in-person, via phone, via Zoom, etc. Note that there should ideally be at least two members of your team present at the interview so someone can take notes and make sure your hypotheses are tested.
+- Identify at least 6 potential customers to interview and try to set up at least 3 interviews for later this week. The interviews can be in-person, via Zoom, etc. Note that there should ideally be at least two members of your team present at the interview so someone can take notes and make sure your hypotheses are tested.
 
 ## Day 5 Time: 10:00-10:50 - Meeting on Third Floor
 ### Day 5 Theme: Tech Shark Tank Round 2: Elimination Investing
