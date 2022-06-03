@@ -10,7 +10,9 @@
 **Day 8 class:**
 - In the main salon, Shawn Schulenberg will discuss being an entrepreneur with a small business pivoting during the pandemic.
 - We will move upstairs for the second hour.
+- **Prompt 1: ** Connect Professor Schulenberg's discussion to your Start-up.
 - Discussion on field work.
+- **Prompt 2: ** Identify the entreprenurial opportunities you saw at JA!
 - Discussion on the MVP of each of the businesses we have encountered.
 - Discussion on Shindig and Tour Buenos Aires in the context of iterating the MVP.
 
