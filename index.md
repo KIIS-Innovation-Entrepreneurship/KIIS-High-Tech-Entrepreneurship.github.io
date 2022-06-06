@@ -4,8 +4,27 @@
 #### Summer 2022 Offering
 
 ---
+## Day 9: June 1, 11:15-1:00 - Meeting on Third Floor
+### Day 9 Theme: Learning and pivoting based on market research and potential investor feedback
+**Day 9 class:**
+- Discussion of MVP
+- Discussion of  [How we built 12 products in one year](https://sugoilabs.com/2018/12/how-we-built-12-products-in-one-year/)
+- Discussion of market research work
+- Read and discuss [Top Seven Questions that Investors Ask Start-ups & How to Handle Them](https://www.entrepreneur.com/article/309494)
+- Use these questions as prompts for your start-up - write answerrs in your Field Pad
+- Present your answers to the other team (who are your potential investors)
+- Team Discussions
+
+**Day 9: Field Work:**
+- Read chapter 6 pp 73-91 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=73) and both summarize the main ideas and reflect (what surprised you, what challenged you, what made you question, etc. Be sure to reflect critically on your start-up idea. Explain your reactions by reflecting on why you think you reacted this way) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Read [Achieve Product-Market Fit with the Value Proposition Canvas](https://www.strategyzer.com/blog/achieve-product-market-fit-with-our-brand-new-value-proposition-designer-canvas) which is by Alexander Osterwalder, the author of the Business Model Canvas
+- As a team, create a fourth iteration of the Business Model Canvas, aligning each customer segment with each value proposition by labelling each Customer Job, Customer Pain, and Customer Gain as well as each with Pain Reliever and Gain Creator. Note that doing this may cause significant changes and pivots--that is EXPECTED!
+Explain the Product-Market Fit as well as the new Pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **again, being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v3 to create v4 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
+- Update your customer interview template to test your hypotheses
+- By Wednesday, conduct two real customer interviews
+
 ## Day 8: June 3, 11:15-12:00 - Meeting on **First** Floor for the first forty-five minutes
-## Day 8: June 3, 12:00-1:00 - Meeting on **Third** Floor for the second hour
+##        June 3, 12:00-1:00 - Meeting on **Third** Floor for the second hour
 ### Day 8 Theme: Pivoting and refining!
 **Day 8 class:**
 - In the main salon, Shawn Schulenberg will discuss being an entrepreneur with a small business pivoting during the pandemic.
