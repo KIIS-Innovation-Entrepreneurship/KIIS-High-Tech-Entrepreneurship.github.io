@@ -20,6 +20,7 @@
 - Read [Achieve Product-Market Fit with the Value Proposition Canvas](https://www.strategyzer.com/blog/achieve-product-market-fit-with-our-brand-new-value-proposition-designer-canvas) which is by Alexander Osterwalder, the author of the Business Model Canvas
 - As a team, create a fourth iteration of the Business Model Canvas, aligning each customer segment with each value proposition by labelling each Customer Job, Customer Pain, and Customer Gain as well as each with Pain Reliever and Gain Creator. Note that doing this may cause significant changes and pivots--that is EXPECTED!
 Explain the Product-Market Fit as well as the new Pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **again, being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v3 to create v4 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
+  - Be sure to update your statement of the problem/entreprenurial opportunity to make it better align with the current state of your start-up. Note that pivoting is appropriate! Heck, you can even change your start-up's name if that seems best to your team.
 - Update your customer interview template to test your hypotheses
 - By Wednesday, conduct two real customer interviews
 
