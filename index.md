@@ -4,7 +4,7 @@
 #### Summer 2022 Offering
 
 ---
-## Day 9: June 1, 11:15-1:00 - Meeting on Third Floor
+## Day 9: June 6, 11:15-1:00 - Meeting on Third Floor
 ### Day 9 Theme: Learning and pivoting based on market research and potential investor feedback
 **Day 9 class:**
 - Discussion of MVP
