@@ -39,7 +39,7 @@
 - Discussion of  [How we built 12 products in one year](https://sugoilabs.com/2018/12/how-we-built-12-products-in-one-year/)
 - Discussion of market research work
 - Read and discuss [Top Seven Questions that Investors Ask Start-ups & How to Handle Them](https://www.entrepreneur.com/article/309494)
-- Use these questions as prompts for your start-up - write answerrs in your Field Pad
+- Use these questions as prompts for your start-up - write answers in your Field Pad
 - Present your answers to the other team (who are your potential investors)
 - Team Discussions
 
@@ -48,7 +48,7 @@
 - Read [Achieve Product-Market Fit with the Value Proposition Canvas](https://www.strategyzer.com/blog/achieve-product-market-fit-with-our-brand-new-value-proposition-designer-canvas) which is by Alexander Osterwalder, the author of the Business Model Canvas
 - As a team, create a fourth iteration of the Business Model Canvas, aligning each customer segment with each value proposition by **labelling** each Customer Job, Customer Pain, and Customer Gain as well as each Pain Reliever and Gain Creator. Note that doing this may cause significant changes and pivots--that is EXPECTED!
 Explain the Product-Market Fit as well as the new Pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **again, being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v3 to create v4 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
-  - Be sure to update your statement of the problem/entreprenurial opportunity to make it better align with the current state of your start-up. Note that pivoting is appropriate! Heck, you can even change your start-up's name if that seems best to your team.
+  - Be sure to update your statement of the problem/entrepreneurial opportunity to make it better align with the current state of your start-up. Note that pivoting is appropriate! Heck, you can even change your start-up's name if that seems best to your team.
 - Update your customer interview template to test your hypotheses
 - By Wednesday, conduct two real customer interviews
 
@@ -60,16 +60,16 @@ Explain the Product-Market Fit as well as the new Pivots in your [Field Pad](htt
 - We will move upstairs for the second hour.
 - **Prompt 1:** Connect [Professor Schulenberg's discussion](https://moodle.berea.edu/mod/url/view.php?id=538136) to your Start-up.
 - Discussion on field work.
-- **Prompt 2:** Identify the entreprenurial opportunities you saw at JA!
+- **Prompt 2:** Identify the entrepreneurial opportunities you saw at JA!
 - Discussion on the MVP of each of the businesses we have encountered.
 - Discussion on Shindig and Tour Buenos Aires in the context of iterating the MVP.
 
 **Day 8: Field Work:**
-- Discuss the JA! business in the context of entreprenership. What problems are they solving?
-- Discuss Dr. Schulenberg's bakery in the context of entreprenership. What problems are they solving? Describe how their MVP has changed.
+- Discuss the JA! business in the context of entrepreneurship. What problems are they solving?
+- Discuss Dr. Schulenberg's bakery in the context of entrepreneurship. What problems are they solving? Describe how their MVP has changed.
 - Read [Framework to build an MVP (Minimum Viable Product)](https://sugoilabs.com/2018/06/framework-to-build-an-mvp-minimum-viable-product/). Summarize key ideas and reflect in your field pad on how this related to your start-up idea. 
 - Read [How we built 12 products in one year](https://sugoilabs.com/2018/12/how-we-built-12-products-in-one-year/). For each use a single sentence to precisely describe the key problem being solved (note that for some you need to explore additional pages.) 
-- Read [Market Research: What It Is and How to Do It](https://ahrefs.com/blog/market-research/). Then as a team, use the web to perform light-weight initial market research for your start-up, presenting key competators and how your start-up will solve a problem that your competators are not already solving. Write this formally so it could be presented to potential invesors. Be sure to include references. Place this in [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
+- Read [Market Research: What It Is and How to Do It](https://ahrefs.com/blog/market-research/). Then as a team, use the web to perform light-weight initial market research for your start-up, presenting key competitors and how your start-up will solve a problem that your competitors are not already solving. Write this formally so it could be presented to potential investors. Be sure to include references. Place this in [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
 - As a team, create a third iteration of the Business Model Canvas, explaining your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v2 to create v3 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
 
 ## Day 7: June 1, 11:15-1:00 - Meeting on Third Floor
@@ -98,7 +98,7 @@ Explain the Product-Market Fit as well as the new Pivots in your [Field Pad](htt
 - React and reflect on the main ideas of the **Brad Miller's Discussion about Runestone** (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Now that you have experienced more of Argentina. Make a list of entrepreneurs you have seen or encountered here. Be sure to reflect on everyday interactions as well as on our excursions. Briefly explain how each is an entrepreneur.
 - Watch the videos embedded in [Customer Discovery: Understanding What the customer Is Telling You](https://venturewell.org/i-corps/llpvideos/customer-discovery/understanding-what-the-customer-is-telling-you/). React and reflect on the main ideas from these videos, and use them to enhance/modify the questions you plan to ask your potential customers. Add to today's [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
-- Read my comments on your Business Model Canvas iteration v2 and use my comments to inform your customer quetions.
+- Read my comments on your Business Model Canvas iteration v2 and use my comments to inform your customer questions.
 - Identify at least 6 potential customers to interview and try to set up at least 3 interviews for later this week. The interviews can be in-person, via Zoom, etc. Note that there should ideally be at least two members of your team present at the interview so someone can take notes and make sure your hypotheses are tested.
 
 ## Day 5: May 27, 10:00-10:50 - Meeting on Third Floor
