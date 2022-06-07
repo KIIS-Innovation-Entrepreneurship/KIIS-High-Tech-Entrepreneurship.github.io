@@ -4,6 +4,34 @@
 #### Summer 2022 Offering
 
 ---
+
+## Day 10: June 7, 11:15-1:00 - Meeting on Third Floor
+### Day 10 Theme: Starting small... Can I? Should I?
+**Day 10 class:**
+- Discussion of chapter 6 pp 73-91 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=73)
+- Discussion of the vlaue proposition canvas and your start-ups
+  - Biggest pain points? pain relievers?
+  - Biggest gain point? gain creator?
+- A look at some high tech pitch decks:
+  - [AirBnB](https://slidebean.com/templates/airbnb-pitch-deck)
+  - [Facebook](https://slidebean.com/templates/facebook-pitch-deck)
+  - [Uber](https://slidebean.com/templates/uber-pitch-deck)
+  - [YouTube](https://slidebean.com/templates/youtube-pitch-deck)
+  - **Prompt 1:** What elements do you see in each pitch deck?
+- **Prompt 2:** What 5-7 words describe your start-up?
+- Watch and discuss [Startup Pitch Video: How to Create a Pitch Deck for Investors](https://www.youtube.com/watch?v=SB16xgtFmco&ab_channel=Slidebean)
+- Read and discuss [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/)
+- Read and discuss [5 Simple Steps to Start Your Side Hustle](https://www.entrepreneur.com/article/381417
+- Discussion of advantages of starting your start-up from a side hussle
+- **Prompt 3** Costs and revenues in your Business Model Canvas - what can you pair down to launch an MVP (for now) and simply add back after you have gained traction?
+- Discussion of final deliverables
+
+**Day 10: Field Work:**
+- By Wednesday, conduct two or more real customer interviews - reflect on these in your Field Pad - what have you learned?
+- Use the learning from your interviews and today's discussions to create a fifth iteration of the Business Model Canvas, explaining your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v4 to create v5 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
+- Add a 5-7 word business descriptor to the **beginning** of the  "What is the Problem/Entrepreneurial Opportunity?" section of version 5 of your Business Model Canvas. Then revise what you had there to flesh out this descriptor.			
+- Read [Pitching Angel Investors - What Materials are Needed, What are Not](https://seraf-investor.com/compass/article/pitching-angel-investors-what-materials-are-needed-what-are-not). Summarize the key elements in your Field Pad. 
+
 ## Day 9: June 6, 11:15-1:00 - Meeting on Third Floor
 ### Day 9 Theme: Learning and pivoting based on market research and potential investor feedback
 **Day 9 class:**
