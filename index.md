@@ -19,7 +19,8 @@
   - [YouTube](https://slidebean.com/templates/youtube-pitch-deck)
 - **Prompt 1:** What commmon components do you see in each of the above pitch decks?
 - **Prompt 2:** What 5-7 words describe your start-up?
-- Discussion of advantages of starting your start-up from a side hussle
+- Read [Here's Why You Should Consider A Side Hustle](https://www.forbes.com/sites/ashleystahl/2018/09/30/heres-why-you-should-consider-a-side-hustle/?sh=237168b33e84)
+- Discussion of advantages of starting your start-up from a side hustle
 - Discussion of final deliverables
 
 **Day 10: Field Work:**
