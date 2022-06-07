@@ -12,7 +12,7 @@
 - Discussion of the vlaue proposition canvas and your start-ups
   - Biggest pain points? pain relievers?
   - Biggest gain point? gain creator?
-- A look at some high tech pitch decks:
+- A look at some high tech pitch decks by clicking on the preview slides link:
   - [AirBnB](https://slidebean.com/templates/airbnb-pitch-deck)
   - [Facebook](https://slidebean.com/templates/facebook-pitch-deck)
   - [Uber](https://slidebean.com/templates/uber-pitch-deck)
