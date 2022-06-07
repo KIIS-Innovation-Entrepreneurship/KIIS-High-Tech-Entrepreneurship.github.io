@@ -23,12 +23,12 @@
 - Read and discuss [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/)
 - Read and discuss [5 Simple Steps to Start Your Side Hustle](https://www.entrepreneur.com/article/381417)
 - Discussion of advantages of starting your start-up from a side hussle
-- **Prompt 3** Costs and revenues in your Business Model Canvas - what can you pair down to launch an MVP (for now) and simply add back after you have gained traction?
+- **Prompt 3:** Costs and revenues in your Business Model Canvas - what can you pair down to launch an MVP (for now) and simply add back after you have gained traction?
 - Discussion of final deliverables
 
 **Day 10: Field Work:**
 - By Wednesday, conduct two or more real customer interviews - reflect on these in your Field Pad - what have you learned?
-- Use the learning from your interviews and today's discussions to create a fifth iteration of the Business Model Canvas, explaining your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v4 to create v5 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
+- Use the learning from your interviews and today's discussions to create a fifth iteration of the Business Model Canvas, explaining your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v4 to create v5 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or the currenntly named [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing). *Note: To change your start-up name, just change your Google folder name.*
 - Add a 5-7 word business descriptor to the **beginning** of the  "What is the Problem/Entrepreneurial Opportunity?" section of version 5 of your Business Model Canvas. Then revise what you had there to flesh out this descriptor.			
 - Read [Pitching Angel Investors - What Materials are Needed, What are Not](https://seraf-investor.com/compass/article/pitching-angel-investors-what-materials-are-needed-what-are-not). Summarize the key elements in your Field Pad. 
 
