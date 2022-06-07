@@ -17,7 +17,7 @@
   - [Facebook](https://slidebean.com/templates/facebook-pitch-deck)
   - [Uber](https://slidebean.com/templates/uber-pitch-deck)
   - [YouTube](https://slidebean.com/templates/youtube-pitch-deck)
-- **Prompt 1:** What elements do you see in each of the above pitch decks?
+- **Prompt 1:** What commmon components do you see in each of the above pitch decks?
 - **Prompt 2:** What 5-7 words describe your start-up?
 - Watch and discuss [Startup Pitch Video: How to Create a Pitch Deck for Investors](https://www.youtube.com/watch?v=SB16xgtFmco&ab_channel=Slidebean)
 - Read and discuss [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/)
