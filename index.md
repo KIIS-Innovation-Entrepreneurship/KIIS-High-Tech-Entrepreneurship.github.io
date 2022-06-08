@@ -5,7 +5,8 @@
 
 ---
 ## The Final Deliverables - Due at 8 am on Tuesday, June 14
-### Final Pitch Deck (in class you will use this to give a pitch talk of 12-15 minutes followed by 5-8 minutes of questions)
+### Final Pitch Deck
+#### in class on June 14 you will use this to give a pitch talk of 12-15 minutes followed by 5-8 minutes of questions
 - Use Google Slides
 - Between 10 and 20 Slides (See examples explored in class)
 - Should be primarily visual
@@ -23,7 +24,7 @@
 
 ### Final Email Deck
 - Use Google Slides
-- This is the final pitch deck, but which can be understood without the in-person presentation
+- This is your final pitch deck, but which can be understood without the in-person presentation
 - The easiest way to organize this is for it to use many more slides (one or more explanatory slides for each of the Pitch Deck Slides
 
 ### One Page Executive Summary
