@@ -32,12 +32,12 @@
 #### Seriously, ths should be exactly one page
 - This should be a Google Doc that makes use of headers for organization
 - Include (but use better headers!):
-  - A Powerful Intriduction
+  - A Powerful Introduction
   - Problem/Opportunity
   - Solution/Value Proposition
-  - Your Market/Competators
+  - Your Market/Competitors
   - Your Team
-  - Your Busimess Model
+  - Your Business Model
   - Growth Opportunity
 ### Final Business Model Canvas
 ### Final Market Analysis
