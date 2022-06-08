@@ -53,8 +53,8 @@
 
 **Day 11: Field Work:**
 - Conduct at least two more customer interviews
-- Draft of final pitch deck 
-- Draft of Executive Summary
+- Draft of Final Pitch Deck 
+- Draft of Final Executive Summary
 
 ## Day 10: June 7, 11:15-1:00 - Meeting on Third Floor
 ### Day 10 Theme: Starting small... Can I? Should I?
