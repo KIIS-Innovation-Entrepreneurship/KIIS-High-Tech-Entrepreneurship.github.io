@@ -39,6 +39,7 @@
   - Your Team
   - Your Business Model
   - Growth Opportunity
+
 ### Final Business Model Canvas
 ### Final Market Analysis
 
