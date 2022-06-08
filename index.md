@@ -29,7 +29,7 @@
 - The easiest way to organize this is for it to use many more slides (one or more explanatory slides for each of the Pitch Deck Slides
 
 ### One Page Executive Summary
-#### Seriously, ths should be exactly one page
+#### Seriously, this should be exactly one page
 - This should be a Google Doc that makes use of headers for organization
 - Include (but use better headers!):
   - A Powerful Introduction
