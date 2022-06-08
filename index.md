@@ -4,6 +4,53 @@
 #### Summer 2022 Offering
 
 ---
+## The Final Deliverables - Due at 8 am on Tuesday, June 14
+### Final Pitch Deck (in class you will use this to give a pitch talk of 12-15 minutes followed by 5-8 minutes of questions)
+- Use Google Slides
+- Between 10 and 20 Slides (See examples explored in class)
+- Should be primarily visual
+- Should be organized to tell the start-up story, including slides for:
+  - Cover slide with company name, logo, and 2-7 word descriptor 
+  - Problem/Opportunity
+  - Solution/Value Proposition
+  - Key elements of Business Model
+  - Founding Team (with pictures)
+  - Competition/Market opportunity
+  - Initial funding model + growth opportunity
+- Additional slides are fine if purposeful, some examples might include:
+  - Use cases
+  - Traction teasers
+
+### Final Email Deck
+- Use Google Slides
+- This is the final pitch deck, but which can be understood without the in-person presentation
+- The easiest way to organize this is for it to use many more slides (one or more explanatory slides for each of the Pitch Deck Slides
+
+### One Page Executive Summary
+- This should be a Google Doc that makes use of headers for organization
+- Include (but use better headers!):
+  - A Powerful Intriduction
+  - Problem/Opportunity
+  - Solution/Value Proposition
+  - Your Market/Competators
+  - Your Team
+  - Your Busimess Model
+  - Growth Opportunity
+### Final Business Model Canvas
+### Final Market Analysis
+
+## Day 11: June 7, 10:00-10:50 - Meeting on Third Floor
+### Day 11 Theme: Planning for the final pitch!
+**Day 11 class:**
+- Discussion of field work
+- Discussion of launching as a side hustle
+- Discussion of current Business Model Canvases
+- Read and discuss [Executive Summary for a Startup Company: How To Write One and Why It's Important](https://www.indeed.com/career-advice/starting-new-job/executive-summary-startup)
+- Discussion of the final deliverables
+
+**Day 11: Field Work:**
+- Conduct at least two more customer interviews
+- Create draft of final pitch deck
 
 ## Day 10: June 7, 11:15-1:00 - Meeting on Third Floor
 ### Day 10 Theme: Starting small... Can I? Should I?
