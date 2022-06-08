@@ -62,7 +62,7 @@
 ### Day 10 Theme: Starting small... Can I? Should I?
 **Day 10 class:**
 - Discussion of chapter 6 pp 73-91 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=73)
-- Discussion of the vlaue proposition canvas and your start-ups
+- Discussion of the value proposition canvas and your start-ups
   - Biggest pain points? pain relievers?
   - Biggest gain point? gain creator?
 - A look at some high tech pitch decks by clicking on the preview slides link:
@@ -70,7 +70,7 @@
   - [Facebook](https://slidebean.com/templates/facebook-pitch-deck)
   - [Uber](https://slidebean.com/templates/uber-pitch-deck)
   - [YouTube](https://slidebean.com/templates/youtube-pitch-deck)
-- **Prompt 1:** What commmon components do you see in each of the above pitch decks?
+- **Prompt 1:** What common components do you see in each of the above pitch decks?
 - **Prompt 2:** What 5-7 words describe your start-up?
 - Read [Here's Why You Should Consider A Side Hustle](https://www.forbes.com/sites/ashleystahl/2018/09/30/heres-why-you-should-consider-a-side-hustle/?sh=237168b33e84)
 - Discussion of advantages of starting your start-up from a side hustle
@@ -78,7 +78,7 @@
 
 **Day 10: Field Work:**
 - By Wednesday, conduct two or more real customer interviews - reflect on these in your Field Pad - what have you learned?
-- Read [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/) and [5 Simple Steps to Start Your Side Hustle](https://www.entrepreneur.com/article/381417). In your field pad discuss the advantages of starting your business from a side hussle.
+- Read [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/) and [5 Simple Steps to Start Your Side Hustle](https://www.entrepreneur.com/article/381417). In your field pad discuss the advantages of starting your business from a side hustle.
 - In your field Pad discuss the costs and revenues in your Business Model Canvas - what can you pair down to launch an MVP (for now) and simply add back after you have gained traction?
 - Use the learning from your interviews and today's discussions and readings to create a fifth iteration of the Business Model Canvas, explaining your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v4 to create v5 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Go to Iguazu](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing). *Note: To change your start-up name, just change your Google folder name.*
 - Add a 5-7 word business descriptor to the **beginning** of the  "What is the Problem/Entrepreneurial Opportunity?" section of version 5 of your Business Model Canvas. Then revise what you had there to flesh out this descriptor.			
@@ -98,7 +98,7 @@
 **Day 9: Field Work:**
 - Read chapter 6 pp 73-91 in the [The Startup Owner’s Manual](https://dinnerape.com/nonscrolablepdf/the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-pdf.html?page=73) and both summarize the main ideas and reflect (what surprised you, what challenged you, what made you question, etc. Be sure to reflect critically on your start-up idea. Explain your reactions by reflecting on why you think you reacted this way) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
 - Read [Achieve Product-Market Fit with the Value Proposition Canvas](https://www.strategyzer.com/blog/achieve-product-market-fit-with-our-brand-new-value-proposition-designer-canvas) which is by Alexander Osterwalder, the author of the Business Model Canvas
-- As a team, create a fourth iteration of the Business Model Canvas, aligning each customer segment with each value proposition by **labelling** each Customer Job, Customer Pain, and Customer Gain as well as each Pain Reliever and Gain Creator. Note that doing this may cause significant changes and pivots--that is EXPECTED!
+- As a team, create a fourth iteration of the Business Model Canvas, aligning each customer segment with each value proposition by **labeling** each Customer Job, Customer Pain, and Customer Gain as well as each Pain Reliever and Gain Creator. Note that doing this may cause significant changes and pivots--that is EXPECTED!
 Explain the Product-Market Fit as well as the new Pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **again, being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v3 to create v4 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
   - Be sure to update your statement of the problem/entrepreneurial opportunity to make it better align with the current state of your start-up. Note that pivoting is appropriate! Heck, you can even change your start-up's name if that seems best to your team.
 - Update your customer interview template to test your hypotheses
