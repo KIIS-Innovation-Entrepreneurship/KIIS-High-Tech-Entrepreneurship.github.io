@@ -4,7 +4,8 @@
 #### Summer 2022 Offering
 
 ---
-## The Final Deliverables - Due at 8 am on Tuesday, June 14
+## The Final Deliverables 
+#### All due at 8 am on Tuesday, June 14
 ### Final Pitch Deck
 #### in class on June 14 you will use this to give a pitch talk of 12-15 minutes followed by 5-8 minutes of questions
 - Use Google Slides
