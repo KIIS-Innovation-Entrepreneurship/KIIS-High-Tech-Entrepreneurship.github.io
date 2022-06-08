@@ -28,6 +28,7 @@
 - The easiest way to organize this is for it to use many more slides (one or more explanatory slides for each of the Pitch Deck Slides
 
 ### One Page Executive Summary
+#### Seriously, ths should be exactly one page
 - This should be a Google Doc that makes use of headers for organization
 - Include (but use better headers!):
   - A Powerful Intriduction
@@ -51,7 +52,8 @@
 
 **Day 11: Field Work:**
 - Conduct at least two more customer interviews
-- Create draft of final pitch deck
+- Draft of final pitch deck 
+- Draft of Executive Summary
 
 ## Day 10: June 7, 11:15-1:00 - Meeting on Third Floor
 ### Day 10 Theme: Starting small... Can I? Should I?
