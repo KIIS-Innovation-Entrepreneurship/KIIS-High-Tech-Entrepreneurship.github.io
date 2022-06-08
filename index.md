@@ -10,7 +10,7 @@
 - Use Google Slides
 - Between 10 and 20 Slides (See examples explored in class)
 - Should be primarily visual
-- Remember, a pitch deck is ultimately just a summary of your start-up story. You are using the slides to make effectively make a compelling argument on how your start-up has figured out how to solve a problem in a way that others have not. Slide number, order, etc should be secondary to your start-up story.
+- Remember, a pitch deck is ultimately just a summary of your start-up story. You are using the slides to effectively make a compelling argument on how your start-up has figured out how to solve a problem in a way that others have not. Slide number, order, etc should be secondary to your start-up story.
 - Should be organized to tell the start-up story, including slides for:
   - Cover slide with company name, logo, and 2-7 word descriptor 
   - Problem/Opportunity
