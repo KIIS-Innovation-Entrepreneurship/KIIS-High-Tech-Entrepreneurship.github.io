@@ -51,6 +51,7 @@
 - Conduct competitive market analysis by collecting data from the internet and customer interviews
 - Summarize what has been learned
 - Interpret and present conclusions
+- References
 
 ## Day 12: June 13, 11:15-1:00 - Meeting on Third Floor
 ### Day 12 Theme: Constructive feedback day
@@ -144,9 +145,10 @@ Explain the Product-Market Fit as well as the new Pivots in your [Field Pad](htt
 - Read [Framework to build an MVP (Minimum Viable Product)](https://sugoilabs.com/2018/06/framework-to-build-an-mvp-minimum-viable-product/). Summarize key ideas and reflect in your field pad on how this related to your start-up idea. 
 - Read [How we built 12 products in one year](https://sugoilabs.com/2018/12/how-we-built-12-products-in-one-year/). For each use a single sentence to precisely describe the key problem being solved (note that for some you need to explore additional pages.) 
 - Read [Market Research: What It Is and How to Do It](https://ahrefs.com/blog/market-research/). Then as a team, use the web to perform light-weight initial market research for your start-up, presenting key competitors and how your start-up will solve a problem that your competitors are not already solving. Write this formally so it could be presented to potential investors. Be sure to include references. Place this in [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing) being sure to include the following:
-  - A succinctly statement of the market research problem
-  - A summary of competitive market analysis what is learned from collecting data from the internet and from customer interviews
+  - A succinct statement of the market research problem
+  - A competitive market analysis -- this is a presentation of data collected from the internet and from customer interviews, followed by an interpretation.
   - An interpretion and presentation of conclusions
+  - References
 - As a team, create a third iteration of the Business Model Canvas, explaining your pivots in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing), **being sure to frame your hypotheses so that they are testable!** For the write-up, use your own perspective and words. For the Business Model Canvas iteration, make a **COPY** of v2 to create v3 inside of [Shindig](https://drive.google.com/drive/folders/1De9wEwwcbCBgdm-9SAYpSHOJXy3MgtBt?usp=sharing) or [Tour Buenos Aires](https://drive.google.com/drive/folders/17TUtutmqqkCTf7P35wawx0xMbS4Y2Tkp?usp=sharing).
 
 ## Day 7: June 1, 11:15-1:00 - Meeting on Third Floor
