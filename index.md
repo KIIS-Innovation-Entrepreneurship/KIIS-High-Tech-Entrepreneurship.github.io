@@ -59,9 +59,12 @@
 - Discussion final deliverables
 - Discussion of new interviews and summary of what was learned from all interviews
 - Present draft business model canvas
-- **Prompt 1:** Considering the other draft business model canvas: What key strengths do you identify? What questions do you still have? What statements need more support before you would invest?
 - Present draft executive summary  
-- **Prompt 2:** Considering the other executive summary: What key strengths do you identify? What questions do you still have? What statements need more support before you would invest?
+- **Prompt 1:** Considering the other executive summary: What key strengths do you identify? What questions do you still have? What statements need more support before you would invest?
+- Present draft pitch deck 
+- **Prompt 2:** Considering the other draft pitch deck: What key strengths do you identify? What questions do you still have? What statements need more support before you would invest?
+- Present v5 of business model canvas
+- **Prompt 3:** Considering the other v5 business model canvas: What key strengths do you identify? What questions do you still have? What statements need more support before you would invest?
 
 **Day 12: Field Work:**
 - Complete all final deliverables by 8 am
