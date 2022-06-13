@@ -52,7 +52,7 @@
 - Summarize what has been learned
 - Interpret and present conclusions
 
-## Day 12: June 13, 11:15-1:50 - Meeting on Third Floor
+## Day 12: June 13, 11:15-1:00 - Meeting on Third Floor
 ### Day 12 Theme: Constructive feedback day
 **Day 11 class:**
 - Discussion final deliverables
