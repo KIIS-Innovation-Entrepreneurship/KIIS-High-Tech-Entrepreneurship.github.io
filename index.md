@@ -44,7 +44,7 @@
   - Growth Opportunity
 
 ### Final Business Model Canvas
-- Note: all poentially questionable hypotheses must have statements of support
+- Note that you have now tested your hypotheses, so all potentially questionable hypotheses must include statements of support.
 
 ### Final Market Analysis
 - Succinctly state the market research problem
