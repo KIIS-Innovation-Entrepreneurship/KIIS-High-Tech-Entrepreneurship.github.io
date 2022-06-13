@@ -20,14 +20,16 @@
   - Founding Team (with pictures)
   - Competition/Market opportunity
   - Initial funding model + growth opportunity
+  - References
 - Additional slides are fine if purposeful, some examples might include:
-  - Use cases
+  - Use cases (this can be a useful way to summarize different things you learned in customer interviews because you can highlight different customer types)
   - Traction teasers
 
 ### Final Email Deck
 - Use Google Slides
 - This is your final pitch deck, but which can be understood without the in-person presentation
 - The easiest way to organize this is for it to use many more slides (one or more explanatory slides for each of the Pitch Deck Slides
+- References must be provided
 
 ### One Page Executive Summary
 #### Seriously, this should be exactly one page
@@ -42,7 +44,27 @@
   - Growth Opportunity
 
 ### Final Business Model Canvas
+- Note: all poentially questionable hypotheses must have statements of support
+
 ### Final Market Analysis
+- Succinctly state the market research problem
+- Conduct competitive market analysis by collecting data from the internet and customer interviews
+- Summarize what has been learned
+- Interpret and present conclusions
+
+## Day 12: June 13, 11:15-1:50 - Meeting on Third Floor
+### Day 12 Theme: Constructive feedback day
+**Day 11 class:**
+- Discussion final deliverables
+- Discussion of new interviews and summary of what was learned from all interviews
+- Present draft business model canvas
+- **Prompt 1:** Considering the other draft business model canvas: What key strengths do you identify? What questions do you still have? What statements need more support before you would invest?
+- Present draft executive summary  
+- **Prompt 2:** Considering the other executive summary: What key strengths do you identify? What questions do you still have? What statements need more support before you would invest?
+
+**Day 12: Field Work:**
+- Complete all final deliverables by 8 am
+- Practice making your final presentation/pitch
 
 ## Day 11: June 7, 10:00-10:50 - Meeting on Third Floor
 ### Day 11 Theme: Planning for the final pitch!
