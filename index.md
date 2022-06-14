@@ -4,6 +4,7 @@
 #### Summer 2022 Offering
 
 ---
+
 ## The Final Deliverables 
 #### All due at 8 am on Tuesday, June 14
 ### Final Pitch Deck
@@ -53,9 +54,14 @@
 - Interpret and present conclusions
 - References
 
+## Day 14: June 13, 11:15-1:00 - Meeting on Third Floor
+### Day 14 Theme: Present that Pitch!
+**Day 13 class:**
+- Presentations
+
 ## Day 12: June 13, 11:15-1:00 - Meeting on Third Floor
 ### Day 12 Theme: Constructive feedback day
-**Day 11 class:**
+**Day 12 class:**
 - Discussion final deliverables
 - Discussion of new interviews and summary of what was learned from all interviews
 - Present draft business model canvas
