@@ -58,6 +58,7 @@
 ### Day 13 Theme: Present that Pitch!
 **Day 13 class:**
 - Presentations
+- Complete [Project Evaluation and Reflection](https://forms.gle/RTbkuqb9WnxiNUGL9)
 
 ## Day 12: June 13, 11:15-1:00 - Meeting on Third Floor
 ### Day 12 Theme: Constructive feedback day
