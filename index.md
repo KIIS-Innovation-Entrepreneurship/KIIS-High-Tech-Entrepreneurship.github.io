@@ -54,7 +54,7 @@
 - Interpret and present conclusions
 - References
 
-## Day 13: June 13, 11:15-1:00 - Meeting on Third Floor
+## Day 13: June 14, 11:15-1:00 - Meeting on Third Floor
 ### Day 13 Theme: Present that Pitch!
 **Day 13 class:**
 - Presentations
