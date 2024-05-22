@@ -1,2 +1,2 @@
-# KIIS Innovation and Entrepreneurship website
+# KIIS High Tech Entrepreneurship website
 
