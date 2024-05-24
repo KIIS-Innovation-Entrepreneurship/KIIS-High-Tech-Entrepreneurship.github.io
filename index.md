@@ -30,7 +30,7 @@
 - Read [Adapting to change and globalization: a snapshot of the entrepreneurial ecosystem in Argentina](https://www.bbvaspark.com/contenido/en/news/adapting-to-change-and-globalisation-a-snapshot-of-the-entrepreneurial-ecosystem-in-argentina/)
 
 **Homework Reflections:**
-(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.)
+(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Entrepreneurship Field Pad to record your reflections.
 
 1. What are the most important things you learned about entrepreneurship from the readings/video? Explain.
 2. How have you been entrepreneurial in your life? Explain.
