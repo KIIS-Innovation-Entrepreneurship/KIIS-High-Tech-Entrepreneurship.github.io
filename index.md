@@ -17,8 +17,8 @@
   - A successful entrepreneur will possess many abilities and characteristics, including the ability to be: curious, flexible and adaptable, persistent, passionate, willing to learn, a visionary, and motivated
 - course overview
   - [Google classroom site](https://classroom.google.com/c/NjI5OTgzMTIxNjY0?cjc=4h3w5cw) - to add yourself to the classroom
-  - [Course Syllabus]()
-  - [Tech Innovation Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing)
+  - [Course Syllabus](https://docs.google.com/document/d/1SaZ42o0V__0GRDOvuvTfyMOy2VouyYpE/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
+  - [Entrepreneurship Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing)
 
 **Day 1: Field Work:**
 
