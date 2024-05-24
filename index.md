@@ -24,15 +24,15 @@
 
 Homework readings:
 
-    - Watch [Why Your Business Idea MUST Solve a PROBLEM](https://youtu.be/OkPHGwBTg10)
-    - Read [Chapter 1: The Role and Promise of Entrepreneurship](https://techventures.stanford.edu/chapter-1-the-role-and-promise-of-entrepreneurship/) and watch the first two linked videos. 
-    - Read [Adapting to change and globalization: a snapshot of the entrepreneurial ecosystem in Argentina](https://www.bbvaspark.com/contenido/en/news/adapting-to-change-and-globalisation-a-snapshot-of-the-entrepreneurial-ecosystem-in-argentina/)
+- Watch [Why Your Business Idea MUST Solve a PROBLEM](https://youtu.be/OkPHGwBTg10)
+- Read [Chapter 1: The Role and Promise of Entrepreneurship](https://techventures.stanford.edu/chapter-1-the-role-and-promise-of-entrepreneurship/) and watch the first two linked videos.
+- Read [Adapting to change and globalization: a snapshot of the entrepreneurial ecosystem in Argentina](https://www.bbvaspark.com/contenido/en/news/adapting-to-change-and-globalisation-a-snapshot-of-the-entrepreneurial-ecosystem-in-argentina/)
 
 Homework Reflections:
 
-  1. What are the most important things you learned about entrepreneurship from the readings/video? Explain.
-  2. How have you been entrepreneurial in your life? Explain.
-  3. How might you view Argentines or Buenos Aires itself as entrepreneurial? Explain.
+1. What are the most important things you learned about entrepreneurship from the readings/video? Explain.
+2. How have you been entrepreneurial in your life? Explain.
+3. How might you view Argentines or Buenos Aires itself as entrepreneurial? Explain.
 
 #### In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
 
