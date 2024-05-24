@@ -18,7 +18,7 @@
 - course overview
   - [Google classroom site](https://classroom.google.com/c/NjI5OTgzMTIxNjY0?cjc=4h3w5cw) - to add yourself to the classroom
   - [Course Syllabus](https://docs.google.com/document/d/14XsEo4fApohwWyE-W1jBFhwQ1PPheR3U/edit?usp=sharing&ouid=100810602293768157293&rtpof=true&sd=true)
-  - [Cybersecurity Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing)
+  - [Entrepreneurship Field Pad](https://docs.google.com/document/d/1i7RgAqBnWXuyPb11gpjBXAKaBQ0GWdM_M_AObn0h3HI/edit?usp=sharing). Make a copy and share with the instructor's gmail account.
 
 **Day 1: Field Work:**
 
