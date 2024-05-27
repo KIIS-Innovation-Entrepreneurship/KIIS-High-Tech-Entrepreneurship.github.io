@@ -24,7 +24,7 @@
   - What bundles of products and services are we offering to each Customer Segment?
   - Which customer needs are we satisfying?
   - Application to [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub) 
-  - **Prompt 3: What are the Value Propositions for the Biz Latin Hub?**
+  - Discussion: What are the Value Propositions for the Biz Latin Hub?
 - Discussion of homework and what brainstorming is.
 
 **Day 2: Field Work:**
