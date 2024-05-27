@@ -4,6 +4,42 @@
 
 ---
 
+## Day 3: May 28, 9:00-10:15 - Meeting on Third Floor
+
+### Day 3 Theme: Identifying, Refining, and Exploring Start-up Ideas
+
+**Day 3 class:**
+- Checking-in on homework
+- Discussion on successful Argentine Start-ups
+  - problem and value propositions
+  - surprises?
+- Using the Business Model Canvas
+  - **Prompt 1: Consider each part of the business canvas for one application that you have used in Argentina. Write your answers to the components in your Field Pad** (not on your Business Model Canvas, which is for your start-up idea.)
+- Read and discuss [Fancy Fundraisers: Tips for a Successful Cocktail Party to Raise Money for a Good Cause - The Catered Affair](https://www.thecateredaffair.com/the-dishes/fancy-fundraisers-tips-for-a-successful-cocktail-party-to-raise-money-for-a-good-cause/)
+- Discuss what a [pitch](https://blog.genial.ly/en/business-pitch/) is.
+- Review your best ideas
+- Discussion of cocktail party:
+  - You are going to a cocktail party where there will be potential investors who you have not met.
+  - Stay in character! - You have some business ideas and you are at a cocktail party full of potential investors - why?
+  - Make friends - why?
+  - Soft-pitch ideas - why? (self and others)
+  - Goal: By the end, you should be focused on one single idea for your start-up tech business
+- Debrief
+
+**Day 3: Field Work:**
+- Read pp 86-113 (pdf numbers) of [Business Model Generation](https://moodle.berea.edu/pluginfile.php/664986/mod_resource/content/1/Business_Model_Generation.pdf). Identify the main ideas. Then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing).
+- Identify the best of your start-up ideas (it must be a start-up that will leverage information technology in some significant way.) 
+- Complete a first iteration of your copy of the [Business Model Canvas](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) for that best idea for your start-up tech business. **Note that you will present this to your potential investors on Thursday!**
+- Then write up a one page report in your [Field Pad](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing). This is intended to help you to be able to distill your ideas into short sound-bytes.
+  - Give your start-up a (hopefully catchy) title
+  - Research the competition and discuss how your idea differs from the competition
+  - Use each section of the first iteration of the Business Model Canvas to summarize why you are excited about this idea and to hypothesize why it will be a success.
+- Prepare a **5 minute pitch talk** for potential investors "pitching" your tech start-up idea. You must use Google slides, which you should place in [Day 4 Pitch Slides](https://drive.google.com/drive/folders/176jv5iHeXT7lqDU6DUYdGaWp9ul5Hihp?usp=sharing) by 8 am on Thursday.
+  - Title slide should include who, what, when, where, and why. 
+  - You should have two or more additional slides, but be strategic! 5 minutes is very short, so be very concise! 
+  - Images are always good to have, but be sure to credit them. 
+  - The final slide should invite questions because there will be an additional 5 minutes for questions.
+
 ## Day 2: May 27, 9:00-10:15 - Meeting on Third Floor
 
 ### Day 2 Theme: Building Blocks of Business Models
