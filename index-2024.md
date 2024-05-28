@@ -9,7 +9,8 @@
 ### Day 3 Theme: Identifying, Refining, and Exploring Start-up Ideas
 
 **Day 3 class:**
-- Checking-in on homework
+
+- Discussion of homework feedback and sharing of exemplars.
 - Discussion on successful Argentine Start-ups
   - problem and value propositions
   - surprises?
@@ -40,14 +41,6 @@
   - Do a very small bit of research on the competition so you can discuss how your idea differs from the competition.
   - Use each section of the first iteration of the Business Model Canvas to summarize why you are excited about this idea and to hypothesize why it will be a success. In addition to the field pad work, submit your Business Model Canvas to the Google Classroom by 8 am on Thursday.
 
-**For Friday**
-
-- Note that for Friday, using Google slides, you will prepare a **5 minute pitch talk** for potential investors "pitching" your tech start-up idea. 
-  - Title slide should include who, what, when, where, and why. 
-  - You should have two or more additional slides, but be strategic! 5 minutes is very short, so be very concise! 
-  - Images are always good to have, but be sure to credit them. 
-  - The final slide should invite questions because there will be an additional 5 minutes for questions.
-
 ## Day 2: May 27, 9:00-10:15 - Meeting on Third Floor
 
 ### Day 2 Theme: Building Blocks of Business Models
@@ -58,16 +51,17 @@
   - Comments on field pad submissions will be made soon.
   - Discussions and sharing of each homework component.
   - Connections of class ideas to the city
-  - **Prompt 1 in your Field Pads: Identify a problem that you have experienced here and think of ways how technology might possibly help.**
+  - **Prompt 1: Identify a problem that you have experienced here and think of ways how technology might possibly help.**
 - Watch and discuss [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub)
-  - **Prompt 2 in your Field Pads: What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?**
+- Ask hotel owner, Fabricio, about how Argentines store value to deal with hyper-inflation.
+- ~~Prompt 2: in your [Tech Innovation Field Pads](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing): What is the Problem/Entrepreneurial Opportunity for the Biz Latin Hub?~~
 - Introduction to the [Business Model Canvas](https://docs.google.com/spreadsheets/d/1TtkrIn4-PHvUt24_4VRo8_K_21mst0Ky-tNDHTUqn0A/edit?usp=sharing)
 - Discussion of Value Propositions:
   - Which one of our customer’s problems are we helping to solve?
   - What bundles of products and services are we offering to each Customer Segment?
   - Which customer needs are we satisfying?
   - Application to [Biz Latin Hub: Why do Business in Argentina?](https://www.youtube.com/watch?v=Dk9tL9o36oo&ab_channel=BizLatinHub) 
-  - **Prompt 3 in your Field Pads: What are the Value Propositions for the Biz Latin Hub?**
+  - Discussion: What are the Value Propositions for the Biz Latin Hub?
 - Discussion of homework and what brainstorming is.
 
 **Day 2: Field Work:**
