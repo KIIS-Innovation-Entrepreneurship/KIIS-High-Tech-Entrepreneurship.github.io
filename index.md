@@ -18,7 +18,6 @@
 - **Prompt 1: Look over your homework (both your list of strengths and the top two or three areas on your list that you would be most excited about potentially further developing. Explain why you are excited about these areas. Do any of these get you super-excited? Explain** 
 - Using the Business Model Canvas
   - Watch [Key Parts of A Business: Business Model Generation By Alexander Osterwalder & Yves Pigneur](https://youtu.be/-uifGqu3iRE?feature=shared) and discuss
-  - **Prompt 2: Consider each part of the business canvas for one application that you have used in Argentina. Write your answers to the components in your Field Pad** (You don't need to use the Business Model Canvas itself for this, but you will as homework for your own start-up idea.)
 - Read and discuss [Fancy Fundraisers: Tips for a Successful Cocktail Party to Raise Money for a Good Cause - The Catered Affair](https://www.thecateredaffair.com/the-dishes/fancy-fundraisers-tips-for-a-successful-cocktail-party-to-raise-money-for-a-good-cause/)
 - Discuss what a [pitch](https://blog.genial.ly/en/business-pitch/) is.
 - Review your best ideas
@@ -36,12 +35,12 @@
 - Check out [Kevin Carrel Footer](https://www.kevincarrelfooter.com/about/) and reflect in your field pad on Kevin Carrel Footer as an entrepreneur.
 - Re-watch [Key Parts of A Business: Business Model Generation By Alexander Osterwalder & Yves Pigneur](https://youtu.be/-uifGqu3iRE?feature=shared). Then react and reflect on each area (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) in your Field Pad.
 - Narrow the list of your start-up ideas (your final idea must be a start-up that will leverage information technology in some significant way.)
-- Choose one of your ideas and complete a first iteration of your copy of the [Business Model Canvas](https://drive.google.com/drive/folders/1ROzBaICb4rM3W_qzVTQ48x3o4rBfGVMz?usp=sharing) for that best idea for your start-up tech business. **Note that you will present one idea to your potential investors on Friday, but the first iteration of your work on the canvas is due Thursday.**
+- Choose one of your ideas and complete a first iteration of your copy of the [Business Model Canvas](https://docs.google.com/spreadsheets/d/1TtkrIn4-PHvUt24_4VRo8_K_21mst0Ky-tNDHTUqn0A/edit?usp=sharing) for that best idea for your start-up tech business. **Note that you will present one idea to your potential investors on Friday, but the first iteration of your work on the canvas is due Thursday.**
   - Give your start-up a (hopefully catchy) title
   - Do a very small bit of research on the competition so you can discuss how your idea differs from the competition.
-  - Use each section of the first iteration of the Business Model Canvas to summarize why you are excited about this idea and to hypothesize why it will be a success. In addition to the field pad work, submit your Business Model Canvas to the Google Classroom by 8 am on Thursday.
+  - Use each section of the first iteration of the [Business Model Canvas](https://classroom.google.com/c/NjI1NDA1OTYxMzM5/a/NjgyMjY5MjkwNDI1/details) to summarize why you are excited about this idea and to hypothesize why it will be a success. In addition to the field pad work, submit your Business Model Canvas to the Google Classroom by 8 am on Thursday.
 
-## Day 2: May 27, 9:00-10:15 - Meeting on Third Floor
+## Day 2: May 27, 9:00-10:15 - Third Floor
 
 ### Day 2 Theme: Building Blocks of Business Models
 
@@ -72,7 +71,7 @@ React and reflect on these main ideas (what surprised you, what challenged you, 
 - Spend a full 15 minutes brainstorming a **list** of the areas of knowledge/experience where you are in some way much more expert than most other people, and for each very briefly explain why you are more expert than most. You should be able to generate a long list in that amount of time.
 - Finally, look through your list and identify the top two or three areas on your list that you would be most excited about potentially further developing. Explain why you are excited about these areas.
 
-## Day 1: May 24, 9:00-9:45 - Meeting on Third Floor
+## Day 1: May 24, 9:00-9:45 - Third Floor
 
 ### Day 1 Themes: Class Overview and Identifying Entrepreneurial Opportunity
 
