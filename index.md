@@ -4,6 +4,36 @@
 
 ---
 
+## Day 4: May 30, 9:00-10:15 - Third Floor
+
+### Day 4 Theme: Pitching your Start-up Idea
+
+**Day 4 class:**
+
+- Discuss readings and submitted business model plan
+- Watch the first part of [How to Make a Pitch Deck for Investors - Startups 101
+](https://youtu.be/SB16xgtFmco?feature=shared)
+- Read [How to Build A Successful Startup Pitch Deck (With Examples And Templates)](https://www.canva.com/learn/pitch-deck/)
+- Let's look at some sucessful high tech pitch decks by clicking on the preview slides link:
+  - [AirBnB](https://slidebean.com/templates/airbnb-pitch-deck)
+  - [Facebook](https://slidebean.com/templates/facebook-pitch-deck)
+  - [Uber](https://slidebean.com/templates/uber-pitch-deck)
+  - [YouTube](https://slidebean.com/templates/youtube-pitch-deck)
+- **Prompt 1: Consider your title slide which should have: the name of your startup, your company logo, and the tagline or one-sentence description of what you do. Brainstorm on how to make these great.**
+- **Prompt 2: Consider your problem and solution slides. Discuss how to make these concise and uncluttered.**
+- Discuss your pitch deck ideas with a partner and get feedback.
+
+**Day 4: Field Work:**
+
+- Read [6 Entrepreneurial Lessons that I Learnt From Dancing Argentine Tango](https://www.linkedin.com/pulse/6-entrepreneurial-lessons-i-learnt-from-dancing-argentine-/) and discuss Argentine culture workers as entrepreneurs in your Field Pad.
+- Prepare a **5 minute pitch talk** for potential investors "pitching" your tech start-up idea. You must use Google slides for your initial pitch deck, due by 8 am on Friday. Due in Google Classroom. You must have the following:
+  - **Title slide** Work hard on this. Remember that it should have: the name of your startup, your company logo, and the tagline or one-sentence description of what you do.
+  - **Problem slide** - What is the problem you are solving?
+  - **Solution slide** - What is your solution?
+  - You should have one or more additional slides beside the final slide, but be strategic! 5 minutes is very short, so be very concise!
+  - Images are always really good to have, but be sure to credit them in small print or on the final slide.
+  - **The final slide** should invite questions because there will be an additional 5 minutes for questions.
+
 ## Day 3: May 28, 9:00-10:15 - Third Floor
 
 ### Day 3 Theme: Identifying, Refining, and Exploring Start-up Ideas

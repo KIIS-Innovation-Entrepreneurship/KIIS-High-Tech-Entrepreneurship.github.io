@@ -26,7 +26,7 @@
 **Day 4: Field Work:**
 
 - Read [6 Entrepreneurial Lessons that I Learnt From Dancing Argentine Tango](https://www.linkedin.com/pulse/6-entrepreneurial-lessons-i-learnt-from-dancing-argentine-/) and discuss Argentine culture workers as entrepreneurs in your Field Pad.
-- Prepare a **5 minute pitch talk** for potential investors "pitching" your tech start-up idea. You must use Google slides, due by 8 am on Friday. Due in Google Classroom. You must have the following:
+- Prepare a **5 minute pitch talk** for potential investors "pitching" your tech start-up idea. You must use Google slides for your initial pitch deck, due by 8 am on Friday. Due in Google Classroom. You must have the following:
   - **Title slide** Work hard on this. Remember that it should have: the name of your startup, your company logo, and the tagline or one-sentence description of what you do.
   - **Problem slide** - What is the problem you are solving?
   - **Solution slide** - What is your solution?
