@@ -14,7 +14,7 @@
 - Watch the first part of [How to Make a Pitch Deck for Investors - Startups 101
 ](https://youtu.be/SB16xgtFmco?feature=shared)
 - Read [How to Build A Successful Startup Pitch Deck (With Examples And Templates)](https://www.canva.com/learn/pitch-deck/)
-- Let's look at some sucessful high tech pitch decks by clicking on the preview slides link:
+- Let's look at some successful high tech pitch decks by clicking on the preview slides link:
   - [AirBnB](https://slidebean.com/templates/airbnb-pitch-deck)
   - [Facebook](https://slidebean.com/templates/facebook-pitch-deck)
   - [Uber](https://slidebean.com/templates/uber-pitch-deck)
@@ -24,7 +24,7 @@
 - Discuss your pitch deck ideas with a partner and get feedback.
 
 **Day 4: Field Work:**
-
+Note that due to the late milonga, this work is due by Noon on Friday.
 - Read [6 Entrepreneurial Lessons that I Learnt From Dancing Argentine Tango](https://www.linkedin.com/pulse/6-entrepreneurial-lessons-i-learnt-from-dancing-argentine-/) and discuss Argentine culture workers as entrepreneurs in your Field Pad.
 - Prepare a **5 minute pitch talk** for potential investors "pitching" your tech start-up idea. You must use Google slides for your initial pitch deck, due by 8 am on Friday. Due in Google Classroom. You must have the following:
   - **Title slide** Work hard on this. Remember that it should have: the name of your startup, your company logo, and the tagline or one-sentence description of what you do.
