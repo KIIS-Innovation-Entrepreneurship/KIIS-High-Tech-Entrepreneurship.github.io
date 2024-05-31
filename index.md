@@ -4,6 +4,25 @@
 
 ---
 
+## Day 5: May 31, 12:00-1:15 - Third Floor
+
+### Day 5 Theme: Pitching and Pivoting
+
+**Day 5 class:**
+
+- Discuss tango reading and how it connected to milonga experience
+- Presentations of start-up ideas (5 minute presentation with up to 5 minutes of questions)
+- Watch [Strategyzer's Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0?feature=shared)
+- Cocktail party and debrief
+
+**Day 5: Field Work:**
+
+- Read [Business Models for Content and Technology Plays](https://press.rebus.community/media-innovation-and-entrepreneurship/chapter/business-models-for-content-and-technology-plays/)
+- Read [The Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas)
+- Watch [What's the Value Proposition Canvas and How Do I Use It?](https://youtu.be/ghdQeY98LQM?feature=shared)
+- Read [When, Why, & How to Pivot a Startup Business](https://blog.hubspot.com/sales/pivot-startup)
+- Complete a Value Proposition Canvas for your start-up idea. Be ready to present it in our next class. Note that you can just use paper or a template.
+
 ## Day 4: May 30, 9:00-10:15 - Third Floor
 
 ### Day 4 Theme: Pitching your Start-up Idea
