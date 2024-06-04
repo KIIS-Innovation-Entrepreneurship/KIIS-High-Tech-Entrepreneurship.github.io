@@ -4,6 +4,24 @@
 
 ---
 
+## Day 6: June 4, 11:00-12:15 - Third Floor
+
+### Day 6 Theme: The Value Proposition Canvas
+
+**Day 6 class:**
+
+- Remaining presentations of start-up ideas (5 minute presentation with up to 5 minutes of questions)
+- Share and discuss your Value Proposition Canvas
+- **Prompt 1: What did you learn from the feedback you received on your Value Proposition Canvas?**
+- Cocktail party
+- **Prompt 2: If you were an angel investor who wanted to invest in one of the start-up ideas other than your own that you heard today, which one would you choose and why?**
+- Debrief
+
+**Day 6: Field Work:**
+
+- Read [Framework to build an MVP (Minimum Viable Product)](https://sugoilabs.com/2018/06/framework-to-build-an-mvp-minimum-viable-product/). Summarize key ideas and reflect in your field pad on how this related to your start-up idea.
+- Using what you have learned from the readings and from the value proposition canvas, complete a second iteration of your copy of the [Business Model Canvas](https://docs.google.com/spreadsheets/d/1TtkrIn4-PHvUt24_4VRo8_K_21mst0Ky-tNDHTUqn0A/edit?usp=sharing). Due in Google Classroom by 8 am tomorrow.
+
 ## Day 5: May 31, 12:00-1:15 - Third Floor
 
 ### Day 5 Theme: Pitching and Pivoting
@@ -11,9 +29,9 @@
 **Day 5 class:**
 
 - Discuss tango reading and how it connected to milonga experience
-- Presentations of start-up ideas (5 minute presentation with up to 5 minutes of questions)
+- Start of presentations of start-up ideas (5 minute presentation with up to 5 minutes of questions)
 - Watch [Strategyzer's Value Proposition Canvas Explained](https://youtu.be/ReM1uqmVfP0?feature=shared)
-- Cocktail party and debrief
+
 
 **Day 5: Field Work:**
 
