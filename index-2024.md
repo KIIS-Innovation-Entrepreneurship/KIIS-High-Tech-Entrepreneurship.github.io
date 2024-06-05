@@ -4,6 +4,25 @@
 
 ---
 
+## Day 7: June 4, 11:00-12:30 - Third Floor
+
+### Day 7 Theme: Minimum Viable Product
+
+**Day 7 class:**
+
+- Discussion of readings
+- Share and discuss your Business Model Canvas and how it was updated based on feedback and minimum viable product (MVP) ideas.
+- Discuss the idea of the minimum viable product (MVP) and how it might serve potential customers.
+- Discuss the importance of user-centered design that includes customer interviews and how to conduct them.
+- **Prompt 1: What do you most wonder about the fit of your MVP and potential customers.**
+- Debrief
+
+**Day 7: Field Work:**
+
+- Read this [The Eight Smartest Questions You Can Ask A Potential Customer](https://www.forbes.com/sites/theyec/2023/10/04/the-eight-smartest-questions-you-can-ask-a-potential-customer/?sh=2c8e83da5693) with skepticism. Discuss the advantages and disadvantages of each question in your Field Pad.
+- In the coming weeks, you are going to interview potential customers. Today's homework is to develop a list of 5 questions you would like to ask potential customers about your start-up idea. These questions should be designed to help you understand the customer's needs and how your start-up idea might meet those needs. You will use these questions in the coming weeks to interview potential customers. Place these questions in your Field Pad and explain why each is important.
+
+
 ## Day 6: June 4, 11:00-12:15 - Third Floor
 
 ### Day 6 Theme: The Value Proposition Canvas
