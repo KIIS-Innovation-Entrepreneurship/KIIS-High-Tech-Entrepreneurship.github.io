@@ -13,6 +13,7 @@
 - Discussion of readings
 - Share and discuss your Business Model Canvas and how it was updated based on feedback and minimum viable product (MVP) ideas.
 - Discuss the idea of the minimum viable product (MVP) and how it might serve potential customers.
+- Read [9 Benefits of Customer Interviews & How to Conduct Them](https://blog.hubspot.com/service/customer-interviews)
 - Discuss the importance of user-centered design that includes customer interviews and how to conduct them.
 - **Prompt 1: What do you most wonder about the fit of your MVP and potential customers.**
 - Debrief
