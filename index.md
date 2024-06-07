@@ -4,7 +4,7 @@
 
 ---
 
-## Day 8: June 4, 8:30-9:30 - Third Floor
+## Day 8: June 7, 8:30-9:30 - Third Floor
 
 ### Day 8 Theme: Who to Interview and How to Conduct Interviews
 
