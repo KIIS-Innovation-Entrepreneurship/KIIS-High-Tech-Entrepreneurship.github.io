@@ -4,7 +4,29 @@
 
 ---
 
-## Day 7: June 4, 11:00-12:30 - Third Floor
+## Day 8: June 4, 8:30-9:30 - Third Floor
+
+### Day 8 Theme: Who to Interview and How to Conduct Interviews
+
+**Day 8 class:**
+
+- Sharing your interview questions and discussing the importance of user-centered design that includes customer interviews and how to conduct them.
+- Read [What's the best way to conduct customer interviews?](https://www.linkedin.com/advice/3/whats-best-way-conduct-customer-interviews)
+- Videos by Steve Blank, Author of The Start-up Owner's Manual:
+  - [Letting the Customer Interview Flow](https://vimeo.com/groups/204136/videos/87302329)
+  - [Looking for Insights](https://vimeo.com/groups/204136/videos/87301695)
+  - [Customer Interview Dry Runs](https://vimeo.com/groups/204136/videos/87302981)
+- Discuss videos
+- Conduct one practice interview with a partner. One person will be the interviewer and the other will be the interviewee. The interviewer will ask the interviewee the questions they developed for their start-up idea. The interviewer will take notes on the answers. After the interview, the interviewer will share the notes with the interviewee and discuss the answers. Then switch roles. After both interviews are complete, discuss what you learned from the practice interviews.
+
+**Day 8: Field Work:**
+
+- Reread [What's the best way to conduct customer interviews?](https://www.linkedin.com/advice/3/whats-best-way-conduct-customer-interviews)
+- Prepare your interview guide with approximately 5 questions. Put these questions in your Field Pad. Note that you may want to ask if you can record the interview as part of the guide.
+- Conduct another practice interview using your interview guide, and discuss what you learned from this interview in your Field Pad.
+- Set-up interviews with at least 3 potential customers. List the names and interview times in your Field Pad. 
+
+## Day 7: June 5, 11:00-12:30 - Third Floor
 
 ### Day 7 Theme: Minimum Viable Product
 
