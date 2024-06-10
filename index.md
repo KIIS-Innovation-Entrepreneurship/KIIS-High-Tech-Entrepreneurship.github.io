@@ -4,6 +4,25 @@
 
 ---
 
+## Day 9: June 10, 9:00-10:15 - Third Floor
+
+### Day 9 Theme: Interviews and SWOT Market Analysis
+
+**Day 9 class:**
+
+- Discuss initial interviews and what was learned.
+- Read [Market Research: What It Is and How to Do It](https://ahrefs.com/blog/market-research/).
+- Read [How to Conduct a SWOT Analysis in Marketing [+Examples]](https://venngage.com/blog/swot-analysis-marketing/)
+- **Prompt 1: What are the most important things you learned about market research from this reading? Explain.**
+
+**Day 9: Field Work:**
+- Complete a SWOT Market Analysis including:
+  - Succinctly state your market research problem
+  - Conduct a SWOT market analysis by collecting data from the internet and any customer interviews that you have completed
+  - Summarize what has been learned
+  - Interpret and present conclusions
+  - References
+
 ## Day 8: June 7, 8:30-9:30 - Third Floor
 
 ### Day 8 Theme: Who to Interview and How to Conduct Interviews
