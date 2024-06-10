@@ -16,6 +16,7 @@
 - **Prompt 1: What are the most important things you learned about market research from this reading? Explain.**
 
 **Day 9: Field Work:**
+- Conduct at least one interview with a potential customer. Be sure to take notes on the interview and summarize what you learned in your Field Pad.
 - Complete a SWOT Market Analysis including:
   - Succinctly state your market research problem
   - Conduct a SWOT market analysis by collecting data from the internet and any customer interviews that you have completed
