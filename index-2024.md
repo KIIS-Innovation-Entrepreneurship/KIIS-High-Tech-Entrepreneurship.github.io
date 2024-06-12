@@ -48,6 +48,8 @@
 - Interpret and present conclusions
 - References
 
+---
+
 ## Day 10: June 12, 9:00-10:15 - Third Floor
 
 ### Day 10 Theme: The Final Stretch
