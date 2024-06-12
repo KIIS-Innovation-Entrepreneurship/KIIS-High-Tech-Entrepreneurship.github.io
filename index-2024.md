@@ -8,6 +8,7 @@
 #### All due at 8 am on Tuesday, June 18
 ### Final Pitch Deck
 #### in class on June 18 you will use this to give a pitch talk of 10-12 minutes followed by around 5 minutes of questions
+
 - Use Google Slides
 - Between 10 and 15 Slides
 - Should be primarily visual
@@ -24,12 +25,6 @@
 - Additional slides are fine if purposeful, some examples might include:
   - Use cases (this can be a useful way to summarize different things you learned in customer interviews because you can highlight different customer types)
   - Traction teasers
-
-### Final Email Deck
-- Use Google Slides
-- This is your final pitch deck, but which can be understood without the in-person presentation
-- The easiest way to organize this is for it to use many more slides (one or more explanatory slides for each of the Pitch Deck Slides
-- References must be provided
 
 ### One Page Executive Summary
 #### Seriously, this should be exactly one page
