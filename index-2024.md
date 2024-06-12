@@ -4,6 +4,70 @@
 
 ---
 
+## The Final Deliverables 
+#### All due at 8 am on Tuesday, June 18
+### Final Pitch Deck
+#### in class on June 18 you will use this to give a pitch talk of 10-12 minutes followed by around 5 minutes of questions
+- Use Google Slides
+- Between 10 and 15 Slides
+- Should be primarily visual
+- Remember, a pitch deck is ultimately just a summary of your start-up story. You are using the slides to effectively make a compelling argument on how your start-up has figured out how to solve a problem in a way that others have not. Slide number, order, etc should be secondary to your start-up story.
+- Should be organized to tell the start-up story, including slides for:
+  - Cover slide with company name, logo, and 2-7 word descriptor 
+  - Problem/Opportunity
+  - Solution/Value Proposition
+  - Key elements of Business Model
+  - Founder or Founding Team (with pictures)
+  - Competition/Market opportunity
+  - Initial funding model + growth opportunity
+  - References
+- Additional slides are fine if purposeful, some examples might include:
+  - Use cases (this can be a useful way to summarize different things you learned in customer interviews because you can highlight different customer types)
+  - Traction teasers
+
+### Final Email Deck
+- Use Google Slides
+- This is your final pitch deck, but which can be understood without the in-person presentation
+- The easiest way to organize this is for it to use many more slides (one or more explanatory slides for each of the Pitch Deck Slides
+- References must be provided
+
+### One Page Executive Summary
+#### Seriously, this should be exactly one page
+- This should be a Google Doc that makes use of headers for organization
+- Include (but use better headers!):
+  - A Powerful Introduction
+  - Problem/Opportunity
+  - Solution/Value Proposition
+  - Your Market/Competitors
+  - You or Your Team
+  - Your Business Model
+  - Growth Opportunity
+
+### Final Business Model Canvas
+- Note that you have now tested your hypotheses, so all potentially questionable hypotheses must include statements of support.
+
+### Final Market Analysis
+- Succinctly state the market research problem
+- Conduct competitive market analysis by collecting data from the internet and customer interviews
+- Summarize what has been learned
+- Interpret and present conclusions
+- References
+
+## Day 10: June 12, 9:00-10:15 - Third Floor
+
+### Day 10 Theme: The Final Stretch
+
+- Discuss final deliverables
+- Discuss homework
+- [Cost Structure Block in Business Model Canvas](https://www.cleverism.com/cost-structure-block-in-business-model-canvas/)
+- Read and discuss [Business Start-up Funding: A Beginner's Guide](https://foundr.com/articles/building-a-business/finance/funding-a-startup)
+- Read and discuss [Executive Summary for a Startup Company: How To Write One and Why It's Important](https://www.indeed.com/career-advice/starting-new-job/executive-summary-startup)
+
+**Day 10: Field Work:**
+- Read [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/) and [5 Simple Steps to Start Your Side Hustle](https://www.entrepreneur.com/article/381417). In your field pad discuss the advantages of starting your business from a side hustle.
+- Conduct at least one more interview with a potential customer. Again, be sure to take notes on the interview and summarize what you learned in your Field Pad.
+- In your field Pad discuss the costs and revenues in your Business Model Canvas - what can you pair down to launch an MVP (for now) and simply add back after you have gained traction?
+
 ## Day 9: June 10, 9:00-10:15 - Third Floor
 
 ### Day 9 Theme: Interviews and SWOT Market Analysis
