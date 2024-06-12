@@ -50,15 +50,11 @@
 
 ---
 
-## Day 10: June 12, 9:00-10:15 - Third Floor
-
 ### Day 10 Theme: The Final Stretch
 
 - Discuss final deliverables
 - Discuss homework
-- [Cost Structure Block in Business Model Canvas](https://www.cleverism.com/cost-structure-block-in-business-model-canvas/)
-- Read and discuss [Business Start-up Funding: A Beginner's Guide](https://foundr.com/articles/building-a-business/finance/funding-a-startup)
-- Read and discuss [Executive Summary for a Startup Company: How To Write One and Why It's Important](https://www.indeed.com/career-advice/starting-new-job/executive-summary-startup)
+- Work time
 
 **Day 10: Field Work:**
 - Read [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/) and [5 Simple Steps to Start Your Side Hustle](https://www.entrepreneur.com/article/381417). In your field pad discuss the advantages of starting your business from a side hustle.

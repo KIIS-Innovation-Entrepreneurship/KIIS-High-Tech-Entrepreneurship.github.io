@@ -50,15 +50,31 @@
 
 ---
 
+### Day 11 Theme: Paying for Your Start-up
+
+## Day 11: June 13, 9:00-10:45 - Third Floor
+
+**Day 11 class:**
+- Read [Javier Milei pitches Argentina as low-regulation AI hub](https://www.ft.com/content/90090232-7a68-4ef5-9f53-27a6bc1260cc) and discuss
+- Read [Jet-setting Argentine President Javier Milei courts top US tech CEOs](https://www.ft.com/content/4ab30d78-aafc-47cc-8a4b-17f9a6f43bed)
+- **Prompt 1: Discuss your thoughts about Milei pitching Argentina in the way described in these articles.**
+- Read [Cost Structure Block in Business Model Canvas](https://www.cleverism.com/cost-structure-block-in-business-model-canvas/)
+- Read and discuss [Business Start-up Funding: A Beginner's Guide](https://foundr.com/articles/building-a-business/finance/funding-a-startup)
+- **Prompt 2: Discuss your thoughts on funding your start-up.**
+- Read and discuss [Executive Summary for a Startup Company: How To Write One and Why It's Important](https://www.indeed.com/career-advice/starting-new-job/executive-summary-startup)
+- Discuss the Executive Summary
+
+**Day 11: Field Work:**
+
+- Work on final deliverables.
+
 ## Day 10: June 12, 9:00-10:15 - Third Floor
 
 ### Day 10 Theme: The Final Stretch
 
+**Day 10 class:**
 - Discuss final deliverables
 - Discuss homework
-- [Cost Structure Block in Business Model Canvas](https://www.cleverism.com/cost-structure-block-in-business-model-canvas/)
-- Read and discuss [Business Start-up Funding: A Beginner's Guide](https://foundr.com/articles/building-a-business/finance/funding-a-startup)
-- Read and discuss [Executive Summary for a Startup Company: How To Write One and Why It's Important](https://www.indeed.com/career-advice/starting-new-job/executive-summary-startup)
 
 **Day 10: Field Work:**
 - Read [Want to bootstrap your startup?](https://www.capitalone.com/bank/money-management/financial-tips/bootstrapping-startup/) and [5 Simple Steps to Start Your Side Hustle](https://www.entrepreneur.com/article/381417). In your field pad discuss the advantages of starting your business from a side hustle.
