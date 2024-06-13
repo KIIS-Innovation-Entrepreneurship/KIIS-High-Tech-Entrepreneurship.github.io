@@ -55,8 +55,9 @@
 ## Day 11: June 13, 9:00-10:45 - Third Floor
 
 **Day 11 class:**
-- Read [Javier Milei pitches Argentina as low-regulation AI hub](https://www.ft.com/content/90090232-7a68-4ef5-9f53-27a6bc1260cc) and discuss
+- Read [Javier Milei pitches Argentina as low-regulation AI hub](https://www.ft.com/content/90090232-7a68-4ef5-9f53-27a6bc1260cc)
 - Read [Jet-setting Argentine President Javier Milei courts top US tech CEOs](https://www.ft.com/content/4ab30d78-aafc-47cc-8a4b-17f9a6f43bed)
+- Read [A Hundred Days into Milei’s Administration Argentina Shifts to Digital Politics](https://latinamericanpost.com/americas/politics/a-hundred-days-into-mileis-administration-argentina-shifts-to-digital-politics/)
 - **Prompt 1: Discuss your thoughts about Milei pitching Argentina in the way described in these articles.**
 - Read [Cost Structure Block in Business Model Canvas](https://www.cleverism.com/cost-structure-block-in-business-model-canvas/)
 - Read and discuss [Business Start-up Funding: A Beginner's Guide](https://foundr.com/articles/building-a-business/finance/funding-a-startup)
