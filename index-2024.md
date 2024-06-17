@@ -50,11 +50,26 @@
 
 ---
 
+### Day 12 Theme: Supporting Each Other
+
+## Day 12: June 17, 9:00-10:45 - Third Floor
+
+**Day 12 class:**
+
+- Discuss final deliverables as a group
+- Structured team time to workshop final deliverables with a partner
+- **Prompt 1: Discuss how you benefitted from review by your partner.**
+
+**Day 12: Field Work:**
+
+- Complete and submit final deliverables.
+
 ### Day 11 Theme: Paying for Your Start-up
 
 ## Day 11: June 13, 9:00-10:45 - Third Floor
 
 **Day 11 class:**
+
 - Read [Javier Milei pitches Argentina as low-regulation AI hub](https://www.ft.com/content/90090232-7a68-4ef5-9f53-27a6bc1260cc)
 - Read [Jet-setting Argentine President Javier Milei courts top US tech CEOs](https://www.ft.com/content/4ab30d78-aafc-47cc-8a4b-17f9a6f43bed)
 - Read [A Hundred Days into Milei’s Administration Argentina Shifts to Digital Politics](https://latinamericanpost.com/americas/politics/a-hundred-days-into-mileis-administration-argentina-shifts-to-digital-politics/)
