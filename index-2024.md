@@ -25,6 +25,7 @@
 - Additional slides are fine if purposeful, some examples might include:
   - Use cases (this can be a useful way to summarize different things you learned in customer interviews because you can highlight different customer types)
   - Traction teasers
+- Note that for your presentation, the following is helpful [1 screen in Meet on Windows: you see notes in Presenter View; audience sees full screen slides](https://youtu.be/f5CnGm3WizM?feature=shared)
 
 ### One Page Executive Summary
 #### Seriously, this should be exactly one page
