@@ -50,9 +50,9 @@
 
 ---
 
-### Day 12 Theme: Supporting Each Other
-
 ## Day 12: June 17, 9:00-10:45 - Third Floor
+
+### Day 12 Theme: Supporting Each Other
 
 **Day 12 class:**
 
@@ -64,9 +64,9 @@
 
 - Complete and submit final deliverables.
 
-### Day 11 Theme: Paying for Your Start-up
-
 ## Day 11: June 13, 9:00-10:45 - Third Floor
+
+### Day 11 Theme: Paying for Your Start-up
 
 **Day 11 class:**
 
