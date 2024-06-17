@@ -47,7 +47,7 @@
 - Conduct competitive market analysis by collecting data from the internet and customer interviews
 - Summarize what has been learned
 - Interpret and present conclusions
-- References
+- List key sources in a standard academic citation format like APA or MLA. Note that this is academic writing, so in-text citations are required.
 
 ---
 
