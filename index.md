@@ -55,11 +55,16 @@
 
 ### Day 13 Theme: The Final Pitches
 
+**Day 13 class:**
+
 - Final pitches (10 minutes followed by around 5 minutes of questions)
 - **Prompt 1: Discuss your thoughts after each of the final pitches, labelling each of them with the company name.**
-
-- **Prompt 2: Discuss your thoughts about the course as a whole.**
+- No prompt 2 today, but be sure to discuss your thoughts about the course as a whole in the Final Course Reflection box.
+- **Final Course Reflection: Discuss your thoughts about the course as a whole.**
 - Discussion
+
+**Day 13 class:**
+
 - Thanks for a great class! Safe travels home!
 
 ## Day 12: June 17, 9:00-10:45 - Third Floor
