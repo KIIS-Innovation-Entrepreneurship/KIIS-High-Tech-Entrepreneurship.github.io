@@ -7,10 +7,10 @@
 ## The Final Deliverables 
 #### All due at 8 am on Tuesday, June 18
 ### Final Pitch Deck
-#### in class on June 18 you will use this to give a pitch talk of 10-12 minutes followed by around 5 minutes of questions
+#### in class on June 18 you will use this to give a pitch talk of 9-10 minutes followed by around 5 minutes of questions
 
 - Use Google Slides
-- Between 10 and 15 Slides
+- Approximately 10 to 15 slides
 - Should be primarily visual
 - Remember, a pitch deck is ultimately just a summary of your start-up story. You are using the slides to effectively make a compelling argument on how your start-up has figured out how to solve a problem in a way that others have not. Slide number, order, etc should be secondary to your start-up story.
 - Should be organized to tell the start-up story, including slides for:
