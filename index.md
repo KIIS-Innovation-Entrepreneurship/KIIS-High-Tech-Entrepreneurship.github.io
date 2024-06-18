@@ -51,6 +51,17 @@
 
 ---
 
+## Day 13: June 18, 9:00-10:45 - Third Floor
+
+### Day 13 Theme: The Final Pitches
+
+- Final pitches (10 minutes followed by around 5 minutes of questions)
+- **Prompt 1: Discuss your thoughts after each of the final pitches, labelling each of them with the company name.**
+
+- **Prompt 2: Discuss your thoughts about the course as a whole.**
+- Discussion
+- Thanks for a great class! Safe travels home!
+
 ## Day 12: June 17, 9:00-10:45 - Third Floor
 
 ### Day 12 Theme: Supporting Each Other
